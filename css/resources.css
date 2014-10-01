@@ -169,13 +169,17 @@ a.sbSelector{
 }
 .citationIcon a {
     display: block;
+    padding-top: 20px;
 }
 .citationIcon i {
     display: block;
     width: 140px;
     height: 140px;
     margin-bottom: 6px;
-    background: url('../images/citation_icons.png') 0 0 no-repeat;
+    background: blue;
+    text-align: center;
+    margin-top: 20px;
+    /*background: url('../images/citation_icons.png') 0 0 no-repeat;*/
 }
 .citationIcon .stateAssoc {
     background-position: -3px -2px;
