@@ -1,0 +1,400 @@
+
+/* index page css starts */
+.slide, .mainSlide {
+    position: relative;
+    width: 100%;
+    height: 369px;
+}
+.sliderWrapper .cycle-slideshow,
+.mainSliderWrap .cycle-slideshow{
+    height: 369px;
+}
+.sliderWrapper,
+.mainSliderWrap {
+    position: relative;
+    overflow: hidden;
+}
+.sliderWrapper img,
+.mainSliderWrap img {
+    width: 100%;
+}
+.slide .hmeSlideTxt {
+    position: absolute;
+    top: 90px;
+    z-index: 5;
+}
+.mainSlide .sliderHeading {
+    position: absolute;
+    z-index: 700;
+    bottom: 95px;
+}
+.slide h1 {
+    font: 40px/42px titillium_webbold,sans-serif;
+    color: #fff;
+    background: #19232d;
+    padding: 20px 45px;
+    width: 560px;
+    text-shadow: 2px 2px 2px #666;
+}
+.sliderHeading {
+    width: 780px;
+}
+.sliderHeading h1{
+    font: 48px/48px titillium_webbold,sans-serif;
+    color: #fff;
+    text-shadow: 2px 2px 2px #666;
+}
+.sliderText {
+    display: block;
+    background: #586d83;
+    color: #fff;
+    width: 485px;
+    padding: 5px 40px 10px 35px;
+    font: 14px/19px open_sansregular,sans-serif;
+    word-spacing: -1px;
+    margin-bottom: 10px;
+}
+.overlayInner span {
+    display: inline-block;
+    color: #a3b9d0;
+    width: 512px;
+    float: left;
+    line-height: 19px;
+    margin-right: 80px;
+}
+.slideTextWrapper {
+    margin-left: 167px;
+    overflow: hidden;
+}
+.slideTextWrapper .redButton,
+.overlayBg .redButton {
+    display: inline-block;
+    width: 90px;
+    margin-top: 5px;
+}
+.overlayInner .redButton {
+    float: left;
+}
+.overlayInner {
+    width: 940px;
+    margin: 0 auto;
+}
+.newsDetails {
+    padding-right: 25px;
+    display: table-cell;
+}
+.newsHeading {
+    vertical-align: middle;
+    margin-top: 1px;
+}
+.nfhsNews a:hover .newsHeading{
+    text-decoration: none;
+}
+.nfhsNews a,
+.staffWrapper ul a ,
+.awardsWrapper ul a {
+    display: block;
+    overflow: hidden;
+}
+.newsWrapper .heading,
+.awardsWrapper .headingWhite,
+.tweetsWrap .heading{
+    margin-bottom: 32px;
+}
+.awardsWrapper{
+    height:280px;
+}
+.newsWrapper .span6 {
+    margin: 0 32px;
+    width: 395px;
+}
+.newsWrapper .span3 {
+    width: 175px;
+}
+.nfhsNews li {
+    margin-top: 30px;
+}
+.nfhsNews li:first-child {
+    margin-top: 0;
+}
+.sponsorsLogo {
+    overflow: hidden;
+    text-decoration: none;
+}
+.sponsorsLogo li {
+    margin: 0 27px 0 0;
+    float: left;
+    display: table;
+}
+.sponsorsLogo a {
+    display: table-cell;
+    vertical-align: middle;
+    height: 62px;
+}
+.sponsorsLogo a img {
+    vertical-align: middle;
+}
+.sponsorsLogo a img.logoColor {
+    display: none;
+}
+.sponsorsLogo a:hover img {
+    display: none;
+}
+.sponsorsLogo a:hover img.logoColor {
+    display: block;
+}
+.logoWrapper {
+    background: #eee;
+    padding: 54px 0;
+}
+
+.staffWrapper ul li {
+    text-align: center;
+    color: #abb3b8;
+    font: 14px/16px open_sansregular,sans-serif;
+    padding: 2px 0;
+}
+.iconLink a {
+    text-align: center;
+    min-height: 250px;
+}
+.iconLink h3 {
+    color: #fff;
+}
+/*Code for Umbraco home page icons starts*/
+.iconLink i {
+  display: block;
+  width: 169px;
+  height: 168px;
+  background: url('/images/large_Icons.png') 0 0 no-repeat;
+}
+.iconLink .coachIcon {
+  background-position: -16px -7px;
+}
+.iconLink .officials {
+  background-position: -16px -187px;
+}
+.iconLink .musicDirectors {
+  background-position: -16px -369px;
+}
+.iconLink .speechDebate {
+  background-position: -16px -550px;
+}
+/*Code for Umbraco home page icons ends*/
+
+/* code for plain Html */
+.iconLink i {
+    display: block;
+    width: 169px;
+    height: 168px;
+    margin: 0 auto 26px;
+    background: url('../images/large_Icons.png') 0 0 no-repeat;
+}
+.iconLink .coachIcon {
+    background-position: -17px -6px;
+}
+.iconLink .officials {
+    background-position: -16px -187px;
+}
+.iconLink .musicDirectors {
+    background-position: -16px -369px;
+}
+.iconLink .speechDebate {
+    background-position: -16px -550px;
+}
+/* code for plain Html Ends */
+
+
+.iconLink a:hover h3 {
+    color: #b5b5be;
+}
+.iconLink a:hover .coachIcon {
+    background-position: -206px -7px;
+}
+.iconLink a:hover .officials {
+    background-position: -206px -187px;
+}
+.iconLink a:hover .musicDirectors {
+    background-position: -206px -369px;
+}
+.iconLink a:hover .speechDebate {
+    background-position: -206px -550px;
+}
+.awardsWrapper img {
+    display: block;
+    max-width: 210px;
+    max-height: 130px;
+    margin: 0 auto 25px;
+    border: 5px solid #fff;
+}
+.awardsWrapper span {
+    display: block;
+    color: #5f8aba;
+    padding: 0;
+    font: 14px/18px open_sansbold,sans-serif;
+}
+.awardsWrapper .headingWhite a {
+    padding-right: 20px;
+}
+.awardsWrapper ul a:hover span {
+    color: #7592b1;
+}
+.networkWrapper .btnsCenter {
+    margin: 32px 0 0 5px;
+}
+.videoHolder{
+    width: 446px;
+    height: 250px;
+    margin-bottom: 10px;
+}
+.videoWrap {
+    width: 446px;
+}
+.videoWrap a {
+    display: inline-block;
+}
+.videoWrap a:hover {
+    color: #7592b1;
+    text-decoration: none;
+}
+.videoWrap .externalLink{
+    margin-top: 4px;
+}
+.topHighlights {
+    font: 18px/20px open_sanssemibold,sans-serif;
+    float: left;
+}
+.netVideoWrap {
+    border-left: 1px solid #777379;
+    padding:20px 0 0 31px;
+}
+.videoTab {
+    width: 436px;
+}
+.videoDetails {
+    margin-bottom: 30px;
+}
+.videoDate,
+.gameType {
+    display: block;
+    font: 12px/14px open_sansregular,sans-serif;
+    margin-bottom: 5px;
+}
+.networkPager {
+    margin-bottom: 27px;
+}
+.networkPager a {
+    margin: 0 5px;
+    color: #586d83;
+    font: 18px/20px titillium_webbold,sans-serif;
+    border-bottom: 3px solid #586d83;
+    display: inline-block;
+    width: 134px;
+    text-align: center;
+    padding-bottom: 4px;
+}
+.networkPager a:first-child{
+    margin-left: 0;
+}
+.networkPager a:hover {
+    color: #7592b1;
+    border-bottom: 3px solid #7592b1;
+}
+.networkPager .cycle-pager-active,
+.networkPager .cycle-pager-active:hover {
+    color: #cb2c26;
+    border-bottom: 3px solid #cb2c26;
+    padding-bottom: 4px;
+}
+.twitterAccount {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.tweetHolder {
+    min-height: 168px;
+    margin-bottom: 20px;
+}
+.tweetHolder > a {
+    line-height: 16px;
+}
+.tweetHolder h4 {
+    font: 18px/20px open_sansbold,sans-serif;
+    color: #19232d;
+}
+.tweetsWrap ul li {
+    width: 212px;
+    min-height: 218px;
+    float: left;
+    padding: 0 50px 0 58px;
+    border-left: 1px solid #586d83;
+}
+.tweetsWrap ul li:first-child {
+    border: none;
+    padding: 0 50px 0 0;
+}
+.tweetsWrap ul a {
+    font-family: open_sansregular,sans-serif;
+}
+.twitterLink {
+    word-wrap: break-word;
+}
+.tweetsWrap .redButton{
+    width: 80px;
+    font-family: titillium_webregular, sans-serif;
+}
+.advtWrapper {
+    text-align: center;
+    padding: 70px 0;
+}
+.advtWrapper a {
+    display: inline-block;
+}
+
+.nfhsInfo{
+    color: #a8a4ae;
+    display: block;
+    margin-bottom: 17px;
+}
+/*new added from style css*/
+
+.awards li{
+    margin-bottom: 8px;
+}
+.awards li a{
+    display: block;
+}
+.awards a span{
+    display: block;
+    font: 14px/18px open_sansregular,sans-serif;
+    color: #5f8aba;
+}
+.awards .btnsCenter{
+    margin-top: 15px;
+}
+.awards a span:first-child{
+    font-family: open_sansbold,sans-serif;
+}
+.awards .onlineCourse p {
+    color: #abb3b8;
+}
+.awards .onlineCourse span{
+    margin-bottom: 22px;
+    display: block;
+}
+.awardsSports li {
+    margin-top: 26px;
+}
+.awardsSports li:first-child {
+    margin-top: 0;
+}
+.awardsSports li a {
+    display: inline-block;
+    font-family: open_sansregular,sans-serif;
+}
+.awardsSports a span {
+    display: block;
+}
+.awardsSports a span:first-child {
+    font: 18px/20px titillium_webbold,sans-serif;
+    display: block;
+}

@@ -1,0 +1,57 @@
+.notFound{
+    background: url("../images/NFHS_404.jpg") 0 0 no-repeat;
+    background-size: cover;
+    min-height: 800px;
+}
+.notFoundContent h2{
+    font-size: 36px;
+    font-family: 'titillium_webbold';
+    color: #ffffff;
+    margin-bottom: 5px;
+}
+.notFoundContent h1{
+    font-family: 'titillium_webbold';
+    color: #cb2c26;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.notFoundContent h4{
+    font-size: 14px;
+    color: #ffffff;
+    font-family: 'open_sansregular';
+}
+.notFoundContent li{
+    float: left;
+    border-left: solid 1px #ffffff;
+    padding: 0 25px;
+}
+.notFoundContent li:first-child{
+    border-left: none;
+    padding-left: 0;
+}
+.notFoundContent li a{
+    font-size: 16px;
+    color: #ffffff;
+    font-family: 'open_sansregular';
+}
+.notFoundContent li a:hover{
+    color: #cb2c26;
+}
+input[type=submit].searchBtnIcon {
+    background: #cb2c26 url("../images/searchIcon.png") 85% 11px no-repeat;
+    padding-right: 40px;
+    padding-bottom: 8px;
+}
+input[type=submit].searchBtnIcon:hover, .searchTopicTitle input[type=submit].srchBtnIcon:hover {
+    background: #cb544f url("../images/searchIcon.png") 85% 11px no-repeat;
+}
+.searchText input[type=text]{
+    padding: 7px;
+    border-radius: 0;
+    float: left;
+    width: 240px;
+    margin-right: 20px;
+}
+.searchText{
+    margin: 20px 0;
+}

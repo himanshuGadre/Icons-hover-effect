@@ -1,0 +1,77 @@
+/* FootbAll Page*/
+.ruleImgWrap img {
+    border: 5px solid #fff;
+}
+.ruleLinks li {
+    margin-top: 19px;
+}
+.ruleLinks li:first-child {
+    margin-top: 0;
+}
+.ruleLinks li span {
+    display: block;
+    font-size: 12px;
+}
+.resourceHolder h6{
+    margin-bottom: 30px;
+}
+.resourceHolder ul li {
+    margin-top: 20px;
+}
+.resourceHolder ul li:first-child {
+    margin-top: 0;
+}
+.resourceHolder ul li a {
+    line-height: 18px;
+    display: inline-block;
+}
+.articleSlide {
+    width: 940px;
+}
+.sportArticles li a,
+.sportEducation li a {
+    display: block;
+}
+.sportArticles li a img {
+    margin-bottom: 13px;
+}
+.sportArticles li span {
+    display: block;
+}
+.sportEducation {
+  margin-left: -30px;
+  overflow: hidden;
+  margin-bottom: 40px;
+}
+.sportEducation li {
+    width: 175px;
+    float: left;
+    margin-left: 30px;
+}
+.sportEducation li a img {
+  margin-bottom: 10px;
+}
+.sportEducation li a span {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 16px;
+}
+.sportLinkOut li {
+  margin-top: 28px;
+}
+.sportLinkOut li a {
+  line-height: 15px;
+  display: inline-block;
+}
+.sportLinkOut li:first-child {
+    margin-top: 0;
+}
+.sportLinkOut li span {
+  display: block;
+  font-size: 12px;
+  line-height: 14px;
+}
+.learningDetails {
+    padding-left: 25px;
+}

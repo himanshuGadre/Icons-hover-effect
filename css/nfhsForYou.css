@@ -1,0 +1,1010 @@
+Coaches page start*/
+.learningWrapper .heading {
+    margin-bottom: 6px;
+}
+.coachingToday a:first-child {
+    display: block;
+}
+.coachingToday a {
+    font: 14px/17px open_sansitalic,sans-serif;
+    color: #244674;
+}
+.coachingToday a:hover {
+    color: #7592b1;
+}
+.coachingToday li {
+    margin-bottom: 40px;
+    min-height: 219px;
+}
+.coachingToday a img {
+    margin-bottom: 10px;
+}
+.coachingToday a span {
+    font: 14px/17px open_sansbold,sans-serif;
+    display: block;
+}
+.normalLink,
+.speechPolicy li a,
+.association li a{
+    display: inline-block;
+}
+.coachesTools {
+    float: left;
+    width: 170px;
+}
+.coachLink {
+ margin-right: 25px;
+}
+.coachesTools li{
+    margin-bottom: 23px;
+    min-height: 80px;
+}
+.coachesTools span,
+.speechTools span {
+    display: block;
+}
+.coachesTools li div,
+.membersTool li div {
+    color: #abb3b8;
+    font: 14px/17px open_sansbold,sans-serif;
+}
+.learningWrapper .redButton {
+    margin-top: 40px;
+}
+#learningCenter .redButton {
+    margin-top: 30px;
+}
+
+.officiatingMore .redButton {
+    margin-top: 31px;
+}
+.coreCourses h6,
+.specificCourse h6 {
+    margin-bottom: 5px;
+}
+.coreCourses,
+.specificCourse {
+    margin-bottom: 15px;
+}
+.coreCourses ul li,
+.specificCourse ul li{
+    margin-top: 5px;
+    line-height: 16px;
+}
+.specificCourse span {
+    display: inline-block;
+    width: 215px;
+    padding: 3px 0;
+    font-family: open_sansregular,sans-serif;
+}
+.specificCourse a,
+.coreCourses a {
+    display: inline-block;
+    font-family: open_sansregular,sans-serif;
+}
+.specificCourse ul {
+    overflow: hidden;
+}
+.specificCourse ul li {
+    float: left;
+    width: 205px;
+    padding-right: 10px;
+}
+.changedRules li:first-child {
+    margin-top: 0;
+}
+.coachAward {
+    padding: 104px 0 91px 0;
+}
+.changedRules li {
+    float: left;
+    margin-bottom: 18px;
+    min-height: 66px;
+}
+.changedRules li a {
+    display: inline-block;
+}
+.changedRules li span {
+    display: block;
+    line-height: 16px;
+}
+.coachRsrc li:first-child {
+    margin-top: 0;
+}
+.coachRsrc li {
+ display: inline-block;
+ margin-bottom: 13px;
+}
+.coachRsrc li a {
+    display: inline-block;
+
+}
+.awardCoaches img{
+    display: block;
+    max-width: 178px;
+    margin: 0 0 17px;
+    border: 5px solid #fff;
+}
+.awardCoaches span,
+.musicAwards span{
+    display: block;
+    color: #5f8aba;
+    padding: 0;
+    font: 14px/17px open_sansregular,sans-serif;
+}
+.coachesAwards .normalLink{
+    font: 14px/17px open_sansbold,sans-serif;
+}
+.coachesAwards{
+    margin-bottom: 35px;
+}
+.coachesAwards a {
+    display: block;
+}
+.musicAwardsHover{
+    position: absolute;
+    width: 188px;
+    height: 177px;
+    margin: 0 0 0 16px;
+    top: 0;
+    left: 0;
+    display: none;
+}
+.musicResource .coachesAwards li{
+    margin-bottom: 0;
+}
+.coachesAwards a:hover .musicAwardsHover {
+    display: block;
+}
+.coachesAwards a:hover span {
+    color: #7592b1;
+}
+.todayCol .heading {
+    overflow: visible;
+}
+/*speech page start*/
+.speechTools li{
+    margin-bottom: 8px;
+    min-height: 49px;
+}
+
+.speechTools p{
+    margin:0 0 35px 0;
+    line-height: 16px;
+}
+.speechTools .applyButton{
+    margin-top: 7px;
+}
+.speechForensic{
+    padding-left: 27px;
+}
+.speechForensic .subHeading {
+    margin-bottom: 15px;
+}
+.speechPolicy h6{
+    color: #abb3b8;
+    margin-bottom: 10px;
+}
+#debateResource .headingWhite{
+    margin-bottom: 15px;
+}
+#speechAssociation{
+    padding-bottom: 116px;
+}
+.speechPolicy li{
+    margin-bottom: 5px;
+    float: left;
+    width: 220px;
+}
+.speechResource img{
+    display: block;
+    margin: 0 auto;
+    max-width: 280px;
+}
+.speechResource li, .linkWraper li{
+    margin-bottom: 3px;
+}
+.speechResource ul{
+    padding-left: 26px;
+}
+.association li{
+    margin-bottom: 4px;
+}
+.educator .btnsCenter{
+    margin-top: 30px;
+}
+.awards li{
+    margin-bottom: 8px;
+}
+.awards li a{
+    display: block;
+}
+.awards a span{
+    display: block;
+    font: 14px/18px open_sansregular,sans-serif;
+    color: #5f8aba;
+}
+.awards .btnsCenter{
+    margin-top: 15px;
+}
+
+.awardSpace{
+    padding-left: 31px;
+}
+.awards a span:first-child{
+    font-family: open_sansbold,sans-serif;
+}
+.awards .onlineCourse{
+    padding-top: 27px;
+    color: #abb3b8;
+}
+.awards .onlineCourse p {
+    color: #abb3b8;
+}
+.awards .onlineCourse span{
+    margin-bottom: 22px;
+    display: block;
+}
+
+.awards .onlineCourse div,
+.membersTool li div {
+    font: 14px/18px open_sansbold,sans-serif;
+}
+.linkWraper div{
+    float: left;
+    margin-left: 30px;
+    width: 240px;
+}
+.linkWraper div:first-child{
+    width: 263px;
+    margin-left: 0;
+}
+.linkWraper ul{
+    margin-top: 25px;
+}
+.linkWraper ul:first-child{
+    margin-top: 0;
+}
+.aboutSDTD{
+    margin-bottom: 2px;
+}
+/*music directors page start*/
+.musicResource li{
+    margin-bottom: 4px;
+}
+.musicResource .span5 div:first-child{
+    padding-top:27px;
+    margin-bottom: 15px;
+}
+.musicAwards img {
+    display: block;
+    max-width: 178px;
+    border: 5px solid #fff;
+    margin-bottom: 19px;
+}
+.musicAwardsHover{
+    margin: 0
+}
+.musicAwards span{
+    padding:0;
+}
+.musicDirectHeading {
+    margin-bottom: 20px;
+}
+.musicAwardsDirec img {
+    margin-bottom: 10px;
+}
+.coachesMusicAwards {
+    margin-bottom: 38px;
+}
+.btmAdvtWrap {
+    text-align: center;
+    padding: 59px 0 70px;
+}
+.musicDirecAssoc li {
+    margin-bottom: 6px;
+}
+.btmAdvtWrap a {
+    display: inline-block;
+    margin-left: 10px;
+}
+.musicDirecAssoc ul:last-child {
+    margin-top: 3px;
+}
+
+.musicDirecAssoc li a {
+    font-size: 14px;
+    line-height: 15px;
+}
+/*end of music directors*/
+
+/*Start officials*/
+.officiatingToday li{
+    margin-bottom: 38px;
+    min-height: 219px;
+}
+.newsListingBlueBg li{
+    margin-bottom: 20px;
+}
+.newsListingBlueBg li a{
+    display: block;
+}
+.newsListingBlueBg li .date{
+    color: #abb3b8;
+}
+.aboutNFHSCentralHub p{
+    color: #5f5b61;
+    margin-bottom: 20px;
+}
+.blueBg .subHeading{
+    font-size: 18px;
+    line-height: 20px;
+    color: #abb3bd;
+    margin-bottom: 20px;
+}
+.publicationsDetails ul{
+    margin-top: 15px;
+}
+.publicationsDetails ul li{
+    color: #5f5b61;
+    margin-bottom: 4px;
+}
+.coachToolsWrapper .headWoSub{
+    margin-bottom: 20px;
+}
+.ruleChanges li{
+    margin-bottom: 17px;
+}
+.aboutLearningCenter img{
+    margin-bottom: 10px;
+}
+.aboutNFHSCentralHub{
+    margin-bottom: 81px;
+}
+#ruleChangesOfficiatingHub{
+    min-height: 425px;
+}
+#officialsAssociationAwards{
+    min-height: 340px;
+}
+.aboutLearningCenter h4{
+    margin-bottom: 5px;
+}
+.aboutLearningCenter h4,
+.aboutLearningCenter h4 a{
+    color: #244674;
+    font: 18px/20px titillium_webbold,sans-serif;
+}
+
+.publicationsDetails h4{
+    color: #5f5b61;
+    font: 18px/20px titillium_webbold,sans-serif;
+}
+.electiveCourses h5,
+.electiveCourses li{
+    margin-bottom: 15px;
+    color: #ffffff;
+    line-height: 18px;
+}
+.electiveCourses h5{
+    font-family: 'titillium_webbold', sans-serif;
+    font-size: 17px;
+}
+.electiveCourses{
+    margin-left: 15px;
+    float: left;
+    width: 141px;
+}
+.assoAwardList li{
+    width: 190px;
+    float: left;
+    margin: 0 30px 0 0;
+    min-height: 75px;
+}
+a.linkHeading {
+    display: inline-block;
+}
+a.linkHeading span:first-child{
+    font-size: 14px;
+    font-family: 'open_sansbold', "sans serif";
+}
+a.linkHeading span{
+    font: 14px/17px open_sansregular,sans-serif;
+    display: block;
+}
+.assoAwardList li span{
+    font-size: 14px;
+    color: #5f8aba;
+}
+.fullWrapAdvt{
+    padding-bottom: 0;
+}
+.electiveCourses li a{
+    font-size: 14px;
+    font-weight: normal;
+    color: #5f5b61;
+    font-family: 'open_sansregular', "sans serif";
+}
+.volumeSearchMj .selectCategory{
+    float: right;
+    margin:-3px 0 0 5px;
+}
+/*.membersTool{
+    margin-bottom: 38px;
+}*/
+.membersTool li {
+    float: left;
+    min-height: 45px;
+    margin-bottom: 30px;
+}
+.membersTool li a{
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.membersTool li span {
+    display: block;
+}
+.learningCenter a{
+    display: inline-block;
+    width: 100%;
+}
+.learningCenter img{
+    padding-bottom: 10px;
+}
+/*End officials*/
+
+/*Code of Ethics Page*/
+.theCoach {
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+.codeOfEthicHeading {
+    margin-bottom: 18px;
+}
+.presentaionMatl ol li a {
+    line-height: 17px;
+    display: inline-block;
+}
+/*End code of ethics page*/
+
+/*new added from style css*/
+.hoverWrapper{
+    position: relative;
+}
+.onlineCourse .btnsCenter{
+    margin-top: 25px;
+}
+.learningDetails {
+    padding-left: 25px;
+}
+/* Starts State association*/
+.remindWrap {
+    padding-bottom: 92px;
+}
+.remindWrap li {
+    margin-bottom: 17px;
+}
+.remindWrap li span {
+    display: block;
+    line-height: 16px;
+}
+.toolsWrap {
+    padding: 0 0 89px 0;
+}
+.toolsIcons i {
+    background: url("../images/tools_icons.png") 0 0 no-repeat;
+    width: 166px;
+    height: 166px;
+    display: block;
+    margin: 0 0 0 60px;
+}
+i.staffDirct {
+    background-position: -19px -32px;
+}
+i.surveyResult {
+    background-position: -19px -262px;
+}
+i.examInfo {
+    background-position: -19px -492px;
+}
+i.schedule {
+    background-position: -19px -722px;
+}
+i.surveys {
+    background-position: -19px -952px;
+}i.eligibleData {
+    background-position: -19px -1182px;
+}
+.toolsIcons span {
+color: #5f5b61;
+font-size: 14px;
+line-height: 16px;
+font-family: 'titillium_webbold', sans-serif;
+margin-top: 10px;
+display: block;
+}
+/* Ends State association*/
+
+/* starts coach/Officals page - about code*/
+.todayWrap p {
+    margin-bottom: 20px;
+}
+.offcialsPic {
+    margin-top: 20px;
+}
+.personPic {
+    background: #36414a;
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    border: 4px solid #36414a;
+    overflow: hidden;
+    margin: 0 auto 5px;
+    position: relative;
+}
+.personPic img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.offcialsPic li {
+    text-align: center;
+    margin-bottom: 55px;
+}
+.OfficialInfo {
+    text-align: center;
+}
+.OfficialInfo span {
+    display: block;
+    line-height: 18px;
+    font-family: titillium_webbold,sans-serif;
+    font-size: 16px;
+}
+.CommitteeRoster {
+padding: 0;
+}
+
+/* ends coach page - about code*/
+
+/* Starts nfhs exam information*/
+.examFormsList{
+    margin-bottom: 110px;
+}
+.examFormsList h4{
+    float: left;
+    font: 18px/20px 'open_sansbold', sans-serif;
+}
+.farmList{
+    float: left;
+    width: 70%;
+    margin-left: 100px;
+}
+.examDetails table tbody tr:nth-child(odd) {
+    background: #f3f3f3;
+}
+.examDetails table tr td, .examDetails table tr th {
+    border: none;
+}
+.headingCaption, .telephone, .examDetails table th {
+    font: 14px/16px 'open_sansbold', sans-serif;
+    color: #5f5b61;
+    margin-bottom: 15px;
+}
+.examDetails table th{
+    margin-bottom: 0;
+}
+.examFormsList{
+    background: #f6f6f6;
+    padding: 30px;
+    border: solid 1px #e0e2e3;
+}
+.farmList li{
+    margin-bottom: 5px;
+}
+.examDetails .heading{
+    margin-bottom: 0;
+}
+.table th.estiDate, .table td.estiDate{
+    text-align: right;
+}
+.examDetails p{
+    margin-top: 10px;
+}
+.examNationalDates table{
+    margin-top: 15px;
+}
+
+/*Ends nfhs exam information*/
+/* Starts Sport PowerPoint Online Availability*/
+.onlineWrap {
+   margin-bottom: 37px;
+}
+.scheduleWrap h6{
+    text-align: center;
+    margin-bottom: 7px;
+}
+.scheduleWrap li {
+    text-align: center;
+    margin-top: 10px;
+}
+.scheduleWrap li:first-child {
+    margin-top: 0;
+}
+.scheduleWrap li span:first-child{
+    font-family: titillium_webbold,sans-serif;
+    display: block;
+}
+/* Ends Sport PowerPoint Online Availability*/
+
+/*NFHS & State Association Directory*/
+.associationDrop .chosen-single{
+    width: 345px;
+}
+.associationDrop .chosen-container .chosen-results{
+    width: 100%;
+}
+.directorySearch li{
+    float: left;
+    margin-left: 30px;
+}
+.directorySearch li ul li{
+    width:100%;
+}
+.directorySearch li:first-child{
+    margin-left: 0;
+}
+.searchDownloadWrap{
+    width: 280px;
+    margin-top: 25px;
+}
+.searchDownloadWrap a{
+    float: left;
+    margin-top: 15px;
+}
+.searchDownloadWrap .downloadBtn{
+    margin-left: 20px;
+}
+.directorySearchWrap{
+    padding: 45px 0 35px;
+}
+.searchdCategaries{
+    background: #e0e1e2;
+    border: solid 1px #d1d3d5;
+    padding: 30px;
+    margin-bottom: 20px;
+}
+.searchdCategaries h4{
+    font: 18px/20px 'open_sansbold', sans-serif;
+    margin-bottom: 20px;
+}
+.searchdCategaries li{
+    float: left;
+    min-width: 200px;
+}
+.searchdCategaries .phoneNumber{
+    width: 150px;
+}
+.memeberDetails,
+.companyDetails{
+    margin-bottom: 20px;
+}
+.memberPic{
+    height: 107px;
+    width: 107px;
+    border-radius: 50%;
+    border: solid 5px #36414a;
+}
+.memberPic, .memberPic img{
+    border-radius: 50%;
+    height: 107px;
+    width: 107px;
+}
+.memeberDetails span,
+.companyDetails span,
+.functionDetails span{
+    display: block;
+}
+.membDetailsWrap{
+    margin-bottom: 50px;
+}
+/* Ends NFHS & State Association Directory*/
+
+/*Electronic Copy of NFHS Exams - Emailed*/
+.examCpyPageWrap p:first-child {
+    margin-bottom: 30px;
+}
+.copyInfo {
+    margin-bottom: 5px;
+}
+.examCpyForm input[type="text"] {
+    height: 25px;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.examCpyForm .control-group {
+    margin: 0 0 30px -20px;
+}
+.examCpyForm .controls {
+    margin-left: 20px;
+}
+.examCpyForm .nameGroup .controls,
+.examCpyForm .email .controls {
+    width: 260px;
+    float: left;
+    margin-left: 20px;
+}
+.nameGroup input,
+.email input {
+    width: 248px;
+}
+.stateGroup .controls {
+    width: 350px;
+    float: left;
+}
+.stateGroup .controls input {
+    width: 336px;
+}
+.stateGroup .selectWrapper {
+    width: 170px;
+    float: left;
+    margin-left: 20px;
+}
+.sportListContent {
+    margin-bottom: 40px;
+}
+.sportListHead,
+.sportListContent li {
+    padding: 5px;
+    height: 20px;
+}
+.sportListContent li:nth-child(2n) {
+    background: #f3f3f3;
+}
+.sportListHead > div,
+.sportListContent div {
+    float: left;
+    height: 100%;
+}
+.sportListHead > div.sportName,
+.sportListContent div.sportName {
+    width: 160px;
+}
+.sportListHead > div.parts,
+.sportListContent div.parts {
+    width: 80px;
+}
+.sportListHead div.mech,
+.sportListContent div.mech {
+    width: 280px;
+}
+.sportListContent div.mech .custom-checkbox {
+    margin-right: 20px;
+}
+.selectFile {
+    margin-bottom: 50px;
+}
+.selectFile label {
+    margin: 0 0 10px 20px;
+}
+.selectFile .controls {
+    margin-left: 20px;
+    float: left;
+    min-width: 140px
+}
+.selectFile .custom-checkbox label {
+    margin: 0;
+}
+.commentsWrap label {
+    margin-bottom: 15px;
+}
+.commentsWrap textarea {
+    width: 100%;
+    height: 100px;
+    resize: none;
+    border-radius: 0;
+}
+/**/
+
+/* Starts directoryUpdates page*/
+.dirUpdatesForm .control-group {
+    margin: 0 0 10px -20px;
+}
+.dirUpdatesForm .modifcationType {
+    margin: 0 0 35px -20px;
+}
+.dirUpdatesForm .modifcationType .controls {
+    width: auto;
+}
+.dirUpdatesInfo {
+    margin-bottom: 10px;
+}
+.dirUpdatesInfo p:first-child {
+    margin: 0;
+}
+.dirUpdatesInfo p {
+    margin-top: 5px;
+}
+.dirUpdatesForm .control-group > h4 {
+    color: #5f5b61;
+    font-family: "open_sansbold";
+}
+.dirUpdatesForm .control-group > h4,
+.dirUpdatesForm .control-group > label {
+    margin: 0 0 5px 20px;
+}
+.control-group > label,
+.controls > label {
+    color: #898989;
+    font: 14px/16px "open_sansregular";
+}
+.dirUpdatesForm .controls {
+    float: left;
+    margin-left: 20px;
+    width: 228px;
+}
+.dirUpdatesForm input[type="text"],
+.dirUpdatesForm textarea {
+    height: 25px;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.dirUpdatesForm p {
+    margin-bottom: 20px;
+    color: #898989;
+    font: 14px/16px "open_sansregular";
+}
+.custom-checkbox label {
+    background: url("../images/custom-radio-checkbox.png") 0 -52px no-repeat;
+    padding-left: 25px;
+    margin-bottom: 0;
+    line-height: 20px;
+    min-height: 20px;
+}
+.custom-checkbox input[type="checkbox"] {
+    opacity: 0;
+    position: absolute;
+    left: -99999px;
+}
+.custom-checkbox label.checked {
+    background-position: 0 -79px;
+}
+ul.checkboxWrap {
+    margin-left: -20px;
+}
+ul.checkboxWrap li {
+    float: left;
+    width: 220px;
+    margin: 0 0 20px 20px;
+}
+.dirUpdatesForm .comment {
+    width: auto;
+}
+.dirUpdatesForm .comment span {
+    float: left;
+    margin-right: 20px;
+}
+.dirUpdatesForm textarea {
+    height: 120px;
+    width: 526px;
+    float: left;
+    resize: none;
+}
+.uploadFileWrap {
+    margin-bottom: 70px;
+}
+.uploadFileWrap .controls {
+    width: auto;
+}
+.uploadFileWrap p {
+    width: 575px;
+    float: left;
+    margin-right: 10px;
+}
+.uploadFileWrap label {
+    font: 18px/20px titillium_webregular,sans-serif;
+    background: #cb2c26;
+    color: #eeeeee;
+    padding: 7px 15px 7px;
+    text-align: center;
+    display: inline-block;
+    border: none;
+}
+.uploadFileWrap label input {
+    position: absolute;
+    left: -99999px;
+    opacity: 0;
+}
+.btnWrap {
+    text-align: center;
+}
+.btnWrap a {
+    border-left: 1px solid #000;
+    color: #244674;
+    font: 16px/18px "open_sansregular";
+    padding-left: 5px;
+}
+/*  Ends directoryUpdates page*/
+/* Start Survey & reports page*/
+.searchCatg {
+    margin-bottom: 25px;
+}
+.searchCatg input[type=submit]{
+    width: 39px;
+    float: left;
+    font-size:0;
+    background: #cb2c26 url("../images/searchIcon.png") 52% 9px no-repeat;
+}
+.searchCatg input {
+    margin-bottom: 0;
+}
+.searchCatg input[type=submit]:hover {
+  background: #cb544f url("../images/searchIcon.png") 52% 9px no-repeat;
+}
+.searchCatg .searchTxt {
+    width: 166px;
+    height: 25px;
+    line-height: 30px;
+    border-radius: 0;
+    float: left;
+}
+.searchCatg {
+    margin-bottom: 25px;
+}
+.catgWrap h6 {
+    margin-bottom: 20px;
+}
+.catgWrap li {
+    line-height: 0;
+    margin-bottom: 6px;
+}
+.settingIco {
+    cursor: default;
+}
+.settingIco i {
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    background: url('../images/Nfhs_sprite.png') no-repeat -34px -580px;
+}
+.contentOuter ul:first-child{
+    margin-bottom: 105px;
+}
+.contentOuter li{
+    margin-top: 45px;
+}
+.contentOuter li:first-child{
+    margin-top: 0;
+}
+/* ends Survey & reports page*/
+
+/* Starts Eligibility result */
+.eligible ol {
+    list-style: decimal;
+    font: 18px/20px titillium_webbold,sans-serif;
+    font-weight: normal;
+}
+.eligible li {
+    margin-top: 41px;
+}
+.eligible li:first-child {
+    margin-top: 0;
+}
+.eligible li h6 {
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+.eligible li p {
+    margin-bottom: 18px;
+}
+.eligible li div {
+    font: 14px/16px open_sansregular,sans-serif;
+}
+.eligible div span {
+    font-family: open_sansbold,sans-serif;
+}
+/* Ends Eligibility result */

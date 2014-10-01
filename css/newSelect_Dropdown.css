@@ -1,0 +1,61 @@
+
+/*new dropdown enhancement*/
+/*
+digit1 - for state & 4 digits
+digit2 - more than 4 digits
+digit3 - more than 6 digits & others
+digit4 - more than 10 digits & others
+normalDrop = normal dropdowns
+*/
+.chosen-container .chosen-results li{
+    display: block;
+}
+.digit1 .chosen-container-single .chosen-single{
+    width: 113px;
+}
+.digit1 .chosen-with-drop .chosen-drop{
+    width: 123px;
+}
+.digit2 .chosen-container-single .chosen-single{
+    width: 130px;
+}
+.digit2 .chosen-with-drop .chosen-drop{
+    width: 140px;
+}
+.digit3 .chosen-container-single .chosen-single{
+    width: 150px;
+}
+.digit3 .chosen-with-drop .chosen-drop{
+    width: 160px;
+}
+.digit4 .chosen-container-single .chosen-single{
+    width: 210px;
+}
+.digit4 .chosen-with-drop .chosen-drop{
+    width: 220px;
+}
+.digit5 .chosen-container-single .chosen-single{
+    width: 225px;
+}
+.digit5 .chosen-with-drop .chosen-drop{
+    width: 235px;
+}
+.normalDrop .chosen-with-drop .chosen-drop{
+    width: 250px;
+}
+.normalDrop .chosen-container-single .chosen-single{
+    width: 260px;
+}
+.digit6 .chosen-container-single .chosen-single{
+    width: 58px;
+}
+.digit6 .chosen-with-drop .chosen-drop{
+    width: 66px;
+}
+.digit7 .chosen-container-single .chosen-single{
+    width: 76px;
+}
+.digit7 .chosen-with-drop .chosen-drop{
+    width: 86px;
+}
+/*new dropdown enhancement*/

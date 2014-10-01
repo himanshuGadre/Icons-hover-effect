@@ -1,0 +1,382 @@
+/* Footer pages */
+
+/*Starts Who we are page*/
+.nfhsOffice {
+    background: url(../images/nfhs_office.jpg) 0 0 no-repeat;
+    border: none;
+    background-size: cover;
+    min-height: 210px;
+}
+.nfhsOffice h1 {
+    text-align: center;
+    margin: 0;
+    font-size: 34px;
+    line-height: 36px;
+}
+.nfhsOffice ul {
+    margin-bottom: 55px;
+}
+.aboutWrap {
+    padding: 109px 0;
+}
+.aboutUs {
+    padding-left: 40px;
+}
+.aboutUs p {
+    color: #000;
+    width: 700px;
+    margin-top: 23px;
+}
+.aboutUs p:first-child {
+    margin-top: 0;
+}
+/*Ends Who we are page*/
+
+/* Starts Mission Statement*/
+section.missionWrap {
+    padding: 106px 0 109px;
+}
+.missionInner {
+    padding: 0 30px;
+}
+.missionHeading {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 13px;
+}
+.missStat {
+    margin-bottom: 55px;
+}
+.ethics ul {
+    margin-bottom: 33px;
+}
+.ethics ul li {
+    margin-bottom: 18px;
+    line-height: 16px;
+    font-size: 14px;
+}
+.ethicsHeading {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 31px;
+    background: url("../images/missionStatement.png") center no-repeat;
+}
+.footerLogo {
+    background: url("../images/missionStatement.png") center no-repeat;
+}
+.footerLogo a {
+    display: block;
+    width: 82px;
+    margin: 0 auto;
+}
+/* Ends Mission Statement*/
+
+/* Starts Bord of Directors & NFHS staff */
+.peopleWrap {
+    padding: 104px 0 50px 0;
+}
+.nfhsStaff {
+    padding: 104px 0 50px 0;
+}
+.personPic {
+    background: #36414a;
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    border: 4px solid #36414a;
+    overflow: hidden;
+    margin: 0 auto 5px;
+    position: relative;
+}
+.personPic img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.peopleImages li, .peopleWrap li, .footballEditorial li {
+    text-align: center;
+    margin-bottom: 55px;
+}
+.personInfo {
+    min-height: 62px;
+}
+.nfhsStaff .personInfo {
+    min-height: 46px;
+}
+.personInfo h3 {
+    font: 24px/26px titillium_webbold,sans-serif;
+    color: #5f5b61;
+    font-weight: normal;
+}
+.personInfo span {
+    display: block;
+    line-height: 18px;
+}
+/* Ends Starts Bord of Directors & NFHS staff */
+
+/* starts committees page*/
+.committeesSearch {
+    width: 400px;
+    margin: 0 auto;
+}
+.committeesSearch .selectCategory {
+    margin-right: 20px;
+}
+/*Football committee page*/
+.footballEditorial {
+    padding: 104px 0 48px 0;
+}
+.footballCommittee {
+    padding: 0 0 109px 0;
+}
+.footballCommittee li:first-child {
+    margin-top: 0;
+}
+.footballCommittee li {
+    margin-top: 24px;
+}
+.footballCommittee li h6 {
+    color: #3b3b3b;
+}
+.footballCommittee li span {
+    line-height: 16px;
+}
+/* ends committees page*/
+
+
+/*ContactUs page*/
+.contactUsSection .headSubtitle {
+    margin-bottom: 45px;
+}
+.contactUsForm {
+    padding: 0 40px;
+    min-height: 490px;
+}
+.contactUsForm ul {
+    margin-bottom: 10px;
+}
+.contactUsForm ul li:first-child {
+    margin-left: 0;
+}
+.contactUsForm ul li:first-child .chosen-container-single .chosen-single {
+    width: 230px;
+}
+.contactUsForm ul li:first-child .chosen-container.chosen-with-drop .chosen-drop{
+    width: 240px;
+}
+.contactUsForm ul li .chosen-container.chosen-with-drop .chosen-drop{
+    width: 288px;
+}
+.contactUsForm ul li .chosen-container-single .chosen-single {
+    width: 278px;
+}
+.contactUsForm ul li {
+    display: inline-block;
+    margin-left: 8px;
+}
+.contactUsForm .commentSection {
+    margin-bottom: 20px;
+}
+.contactUsForm textarea {
+    width:525px;
+    border-radius: 0;
+    margin-bottom: 0;
+}
+.contactUsForm .stateSearchList .chosen-container.chosen-with-drop .chosen-drop {
+    width: 150px;
+}
+.stateSearchList .chosen-single {
+    height: 33px;
+    width: 140px;
+}
+.contactUsForm input[type="text"],
+.contactUsForm input[type="email"] {
+    border-radius: 0;
+    height: 25px;
+    width: 226px;
+}
+.contactUsForm .control-group:first-child {
+    margin-left: 0;
+}
+.contactUsForm .control-group {
+    margin-left: 15px;
+}
+.contactUsForm .btnsCenter {
+    margin-top: 23px;
+}
+.contactUsForm label {
+    color:#898989;
+    cursor: default;
+}
+.contactUsFormArea .control-group {
+    margin-bottom: 20px;
+}
+.howToKnow {
+    border:1px solid #d1d3d5;
+    background: #f6f6f6;
+    padding: 34px 30px;
+}
+.headingCaption,.telephone {
+    font:14px/16px 'open_sansbold', sans-serif;
+    color: #5f5b61;
+    margin-bottom: 15px;
+}
+.contactInfo p:first-child {
+    margin-top: 0;
+}
+.contactInfo p {
+    margin-top: 25px;
+}
+/* State Association Listing */
+.stateListing {
+    padding: 25px 0 62px;
+    background: #f6f6f6;
+    border: solid 1px #d5d6d8;
+    margin-top: -2px;
+}
+.stateListing ul.span6 {
+    width: 459px;
+}
+.firstCol li {
+    margin-left: 25px;
+}
+.stateListing li {
+    margin-bottom: 28px;
+}
+.stateListing li div {
+    font:16px/18px 'open_sansbold', sans-serif;
+}
+.stateListing li span {
+    display: block;
+    line-height: 18px;
+}
+/* starts Marketing */
+.marketingWrap {
+padding: 109px 0;
+}
+.marketing p {
+    margin-bottom: 109px;
+}
+.marketing p:first-child {
+    margin-bottom: 23px;
+}
+/* ends Marketing */
+/*start memberships*/
+.membershipsWrap{
+    background: url("../images/Light_Blue_BG.jpg") 0 0 repeat;
+}
+.membershipWrap .tabs li{
+    float: left;
+    border-top: solid 5px transparent;
+    background: none;
+    text-align: center;
+}
+.membershipWrap .tabs li a{
+    background: none;
+}
+.membershipWrap .tabs li.active{
+    background: #fff;
+    border-top: solid 5px #cb2c26
+}
+.membershipWrap li i{
+    background: url("../images/membershipSprite.png") 0 -4px no-repeat;
+    height: 80px;
+    width: 80px;
+    display: block;
+    margin: 20px auto 10px;
+}
+.membershipWrap li .officials i{
+    background-position: 0 0;
+}
+.membershipWrap li.active .coaches i{
+    background-position: -93px -4px;
+}
+.membershipWrap li .officials i{
+    background-position:0 -96px;
+}
+.membershipWrap li.active .officials i{
+    background-position: -93px -95px
+}
+.membershipWrap li .musicDirec i{
+    background-position:0 -188px;
+}
+.membershipWrap li.active .musicDirec i{
+    background-position: -93px -188px
+}
+.membershipWrap li .sdtd i{
+    background-position:0 -280px;
+}
+.membershipWrap li.active .sdtd i{
+    background-position: -93px -280px
+}
+.membershipWrap li .webonly i{
+    background-position:0 -382px;
+}
+.membershipWrap li.active .webonly i{
+    background-position: -93px -382px
+}
+.membershipWrap .tabs li a{
+    width: 188px;
+    height: 160px;
+    border: none;
+    padding: 0;
+    text-align: center;
+    display: block;
+    line-height: 20px;
+    font-size: 18px;
+    color: #5f5b61;
+}
+.tabs li.active{
+    margin-top: 0;
+}
+.membershipWrap .tabs .active a{
+    color: #cb2c26;
+}
+.membershipSection .tabsDataWrap{
+    padding: 104px 0 93px;
+}
+.insurCoverage ul{
+    list-style:disc;
+    margin: 0 0 30px 40px;
+}
+.membershipContent p{
+    margin-bottom: 30px;
+}
+.contentHead{
+    font-family:'open_sansbold',sans-serif;
+    margin-bottom: 5px;
+    display: block;
+}
+h5.contentHead{
+    color: #244674;
+    margin-bottom: 20px;
+}
+.rightPanel h4{
+    color: #5f5b61;
+    font-size: 18px;
+    font-family:'open_sansbold',sans-serif;
+    margin-bottom: 5px;
+}
+.particiDetails .joinOnline{
+    margin: 50px 0;
+    display: inline-block;
+}
+.particiDetails h4, .particiDetails p{
+    text-align: left;
+}
+.particiDetails{
+    text-align: center;
+}
+.membershipWrap .tabs li.active {
+    background:#fff;
+    border-top: 5px solid #cb2c26;
+}
+.tabs li.active {
+    margin-top: 0;
+}
+
+/*end memberships*/

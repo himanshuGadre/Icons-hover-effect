@@ -1,0 +1,229 @@
+/* Register Pages */
+
+/*Register*/
+.regHeading h3 {
+    text-align: center;
+}
+.steps {
+    font-size: 15px;
+    color: #627588;
+    background: url(../images/steps.png) no-repeat center 0;
+    width: 700px;
+    margin: 33px auto 75px;
+    text-align: center;
+}
+.step2 {
+    background-position: center -41px;
+}
+.step3 {
+    background-position: center -80px;
+}
+.steps li {
+    float: left;
+    width: 233px;
+}
+.steps p {
+    background: #fff;
+    padding-top: 25px;
+}
+.steps span {
+    display: block;
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    text-align: center;
+    margin: 0 auto;
+}
+.step3 .currentStep3 p,
+.step2 .currentStep2 p,
+.step1 .currentStep p{
+    color: #da0000
+}
+.step3 .currentStep3 span,
+.step2 .currentStep2 span,
+.step1 .currentStep span {
+    color: #fff;
+}
+.boxWrap {
+    background: #f6f6f6;
+    border: 1px solid #d1d3d5;
+    padding:0 20px;
+    width: 578px;
+    margin: 0 auto;
+    min-height: 518px;
+}
+.formWrap {
+    padding: 42px 0 18px 20px;
+}
+.formWrap h3 {
+    margin-bottom: 33px;
+}
+.formWrap input {
+    height: 25px;
+    border-radius: 0;
+    width: 285px;
+}
+.stateProvince {
+    width: 290px;
+}
+.nameInput ul {
+
+}
+.nameInput li:first-child {
+    margin-left: 0;
+}
+.nameInput li {
+    float: left;
+    margin-left: 4px;
+}
+.regSubmit {
+    margin-top: 30px;
+}
+.imgBoxAccount {
+    position: relative;
+    width: 220px;
+    height: 518px;
+}
+.imgBoxAccount img {
+    position: absolute;
+}
+.verifyInfo h3 {
+    margin-bottom: 38px;
+}
+.formWrapVerify {
+    width:300px;
+}
+.verifyContent .infoImportant {
+    font:18px/20px 'open_sansregular',sans-serif;
+    display: block;
+    margin-bottom: 12px;
+}
+.verifyContent p {
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: 'open_sansregular',sans-serif;
+}
+.verifyAccCont {
+    margin-bottom: 15px;
+}
+.verifyAccCont p {
+    margin-bottom: 0;
+}
+.importantInfo {
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 14px;
+}
+/*login failed*/
+.loginFailWrap{
+    width: 385px;
+    min-height:0;
+}
+.loginFailWrap p{
+    font-family: 'open_sansbold',sans-serif;
+    margin-bottom: 35px;
+}
+.loginFailWrap .formWrap h3{
+    margin-bottom: 35px;
+}
+.loginFailWrap .formWrap input[type=text],
+.loginFailWrap .formWrap input[type=password]{
+    width: 300px;
+}
+.relatedSection{
+    background: url("../images/Light_Blue_BG.jpg") 0 0 repeat;
+    padding: 30px 0 50px;
+}
+.relatedSection h3{
+    color: #5f5b61;
+    text-align: center;
+    margin-bottom: 55px;
+}
+.referenceLinks{
+    width: 820px;
+    margin: 0 auto;
+    text-align: center;
+}
+.referenceLinks li{
+    width: 245px;
+    text-align: center;
+    float: left;
+    margin-left: 40px;
+}
+.referenceLinks li:first-child{
+    margin-left: 0;
+}
+.referenceLinks li a{
+    display: block;
+    font-family: 'open_sansregular',sans-serif;
+}
+.referenceLinks li a span{
+    color: #5f5b61;
+}
+.referenceLinks li a:hover span{
+    color: #7592b1;
+}
+.referenceLinks li a:hover h2{
+    color: #a1a8ad;
+}
+
+.referenceLinks li h2{
+    font-family: 'open_sansbold',sans-serif;
+    color: #5f5b61;
+    font-size: 24px;
+    margin: 10px 0 30px 0;
+}
+.referenceLinks li i {
+    background: url("../images/outsideIconSprite.png") 0 0 repeat;
+    width: 175px;
+    height: 175px;
+    display: inline-block;
+}
+.referenceLinks li .nfhsLearn{
+    background-position: 0 0;
+}
+.assistanceLink{
+    display: block;
+    margin-top: 50px;
+    font-size: 18px;
+}
+.referenceLinks li .nfhsOffiHub{
+    background-position: 0 -180px;
+}
+.referenceLinks li .onlineExam{
+    background-position: 0 -358px;
+}
+
+/*start account setup css*/
+.accSetupWrap{
+    padding: 42px 0 18px 20px;
+    width: 335px;
+}
+.accSetupWrap h3 {
+    margin-bottom: 33px;
+}
+.accSetupWrap label{
+    width: 90px;
+    float: left;
+}
+.accSetupWrap .control-group{
+    margin-bottom: 30px;
+}
+.sendInfoWrap{
+    margin-top: 100px;
+}
+.sendInfoWrap a{
+    font:14px 'open_sansregular',sans-serif;
+    color:#5f5b61;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+.sendInfoWrap span{
+    display: block;
+    margin-bottom: 30px;
+}
+.wrongRecord{
+    font-family: 'open_sansbold',sans-serif;
+    color: #244674;
+    font-size: 14px;
+}
+/*end account setup css*/

@@ -1,0 +1,350 @@
+/*starts My Groups Home page */
+.recentDocs {
+    padding: 109px 0 101px 0;
+}
+.recentDocs li {
+    margin-bottom: 8px;
+}
+.recentDocs span {
+    display: block;
+}
+.recentDocs li strong {
+    font-family: 'open_sansbold',sans-serif;
+    font-weight: normal;
+}
+.recentDocs li a {
+    font-family: 'open_sansregular',sans-serif;
+}
+.groupsWrap {
+    padding: 0 0 89px 0;
+}
+.groupsOuter > li{
+    margin-bottom: 20px;
+}
+.groupsInner {
+    display: block;
+    background: #f6f6f6;
+    border: 1px solid #d1d3d5;
+    padding: 22px 24px;
+    overflow: hidden;
+}
+.groupIco {
+    background: #36414a;
+    width: 104px;
+    height: 104px;
+    border-radius: 50%;
+    border: 4px solid #36414a;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    margin-right: 23px;
+}
+.groupIco img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+    max-width: 104px;
+}
+.groupInfo {
+    float: left;
+}
+.groupInfo h6 {
+    color: #cb2c26;
+    margin-bottom: 20px;
+}
+.groupInfo li {
+    line-height: 16px;
+}
+.groupInfo li label {
+    display: inline-block;
+    width: 95px;
+    padding-right: 12px;
+    margin-bottom: 0;
+    font-family: 'open_sansbold',sans-serif;
+    line-height: 16px;
+}
+.groupInfo li span {
+    font-family: 'open_sansregular',sans-serif;
+}
+.groupInfo li span,
+.groupInfo li label,
+.groupsInner:hover .groupInfo label,
+.groupsInner:hover .groupInfo span {
+    color: #5f5b61;
+}
+a.groupsInner:hover {
+    opacity: 0.4;
+    filter: Alpha(opacity=40); /* IE8 and earlier */
+}
+/* Ends My Groups Home page */
+/* Starts My Group details page*/
+.groupDetail .groupsInner {
+    width: 215px;
+    padding-bottom: 30px;
+}
+.groupDetail .groupIco {
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 7px;
+}
+.groupDetail .groupInfo h3 {
+    text-align: center;
+    float: none;
+    margin-bottom: 22px;
+}
+.groupDetail .groupInfo li {
+    margin-bottom: 1px;
+}
+.groupDetail .groupInfo label {
+    display: inline;
+    padding-right: 0;
+}
+.folder {
+    padding: 5px 8px 4px 0;
+}
+.folder:hover .folderLink,
+.subFolderWrap:hover .folderLink,
+.subFolderWrap:hover .folderLink a {
+    display: block;
+}
+.folder > a,
+.subFolderWrap > a {
+    width: 85%;
+    font-size: 16px;
+    line-height: 18px;
+    float: left;
+}
+.folder > a i,
+.subFolderWrap > a i {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-right: 5px;
+    background: url('../images/Nfhs_sprite.png') -36px -29px no-repeat;
+}
+.folder > a.active i,
+.subFolderWrap > a.active i {
+    background: url('../images/Nfhs_sprite.png') -35px -15px no-repeat;
+}
+.folderLink {
+    position: relative;
+    float: right;
+    padding-top: 1px;
+    display: none;
+    line-height: 14px;
+}
+.folderLink a {
+    margin-left: 6px;
+    float: left;
+}
+.folderLink a:first-child {
+    margin-left: 0;
+}
+.editIco,
+.uploadIco,
+.closeIco,
+.folderIco {
+    width: 16px;
+    height: 14px;
+    display: inline-block;
+    background: url('../images/Nfhs_sprite.png') 0 0 no-repeat;
+}
+.editIco {
+    background-position: -2px -604px;
+}
+.uploadIco {
+    background-position: -19px -604px;
+}
+.closeIco {
+    background-position: -38px -604px;
+}
+.folderIco {
+    background-position: -58px -604px;
+}
+.docsWrap,
+.subDocs {
+    padding-left: 35px;
+}
+.docsWrap li {
+    overflow: hidden;
+    padding: 6px 8px 5px;
+}
+.docsWrap li a {
+    font-family: 'open_sansregular',sans-serif;
+    float: left;
+    display: none;
+    line-height: 13px;
+}
+.docsWrap .subFolderWrap a {
+    float: left;
+}
+.docsWrap li > a:first-child {
+    width: 91%;
+    display: block;
+    line-height: 16px;
+}
+.folderWrap .folder:hover{
+    background:#d1d9e3;
+}
+.folderWrap .docsWrap li:hover{
+    background:#d1d9e3;
+}
+.folderWrap .docsWrap .subDocsWrap:hover{
+    background: none;
+}
+.subFolderWrap{
+    padding: 6px 8px 5px;
+}
+.subFolderWrap:hover{
+    background: #d1d9e3;
+}
+.docsWrap li.subDocsWrap {
+    overflow: visible;
+    padding: 0 8px 0 0;
+}
+.docsWrap li:hover > a {
+    display: block;
+}
+.docsWrap .subFolderWrap > a {
+    font: 16px/18px open_sansbold,sans-serif;
+    display: inline;
+    float: left;
+    width: 83%;
+}
+/* Starts Popup */
+.newFolder {
+    float: right;
+}
+#createFolder,
+.groupPoup {
+    display: none;
+    padding: 0 65px 14px;
+}
+.groupPoup h3 {
+    margin-bottom: 12px;
+}
+.groupPoup label {
+    color: #898989;
+}
+.groupPoup input[type="text"] {
+    margin-bottom: 40px;
+}
+.groupPoup input[type="submit"] {
+    margin-right: 20px;
+}
+.groupPoup p {
+    width: 285px;
+    margin-bottom: 25px;
+}
+.uploadIco {
+    position: relative;
+    float: left;
+    margin-left: 6px;
+    cursor: pointer;
+    overflow: hidden;
+}
+.uploadIco input[type="file"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    height: 14px;
+    width: 16px;
+    cursor: pointer;
+}
+/* Ends Popup */
+/* fancybox css starts*/
+
+.fancybox-close {
+    background: url("../images/Nfhs_sprite.png") -4px -438px no-repeat;
+    width: 25px;
+    height: 25px;
+    display: block;
+    top: -10px;
+}
+.fancybox-close {
+    background:url("../images/Nfhs_sprite.png") -52px -106px no-repeat;
+    width:25px;
+    height:25px;
+    display:block;
+    top:0;
+    right: 0
+}
+.fancybox-opened .fancybox-skin{
+    box-shadow: none;
+    border-radius: 0;
+}
+input[type="text"] {
+    border: 1px solid #b4b6b8;
+    border-radius:0;
+    height: 25px;
+    width: 280px;
+}
+.groupWrap .fancybox-inner {
+    margin-top: 15px;
+    width: auto!important;
+    height: auto!important;
+}
+/* fancybox css ends*/
+/*Starts tooltip for Upload Icon user*/
+ .folderLink .tooltip {
+     background: #707070;
+     color: #fff;
+     display: block;
+     position: absolute;
+     margin-bottom: 15px;
+     opacity: 1;
+     top: -83px;
+     left: -64px;
+     padding: 8px 18px;
+     pointer-events: none;
+     width: 150px;
+     font-family: 'open_sansregular',sans-serif;
+     font-size: 12px;
+     -webkit-transform: translateY(10px);
+     -moz-transform: translateY(10px);
+     -ms-transform: translateY(10px);
+     -o-transform: translateY(10px);
+     transform: translateY(10px);
+     -webkit-transition: all .25s ease-out;
+     -moz-transition: all .25s ease-out;
+     -ms-transition: all .25s ease-out;
+     -o-transition: all .25s ease-out;
+     transition: all .25s ease-out;
+ }
+ .folderLink .tooltip:before {
+     bottom: -20px;
+     content: " ";
+     display: block;
+     height: 20px;
+     left: 0;
+     position: absolute;
+     width: 100%;
+ }
+ .folderLink .tooltip:after {
+     border-left: solid transparent 10px;
+     border-right: solid transparent 10px;
+     border-top: solid #707070 16px;
+     bottom: -10px;
+     content: " ";
+     height: 0;
+     left: 50%;
+     margin-left: -13px;
+     position: absolute;
+     width: 0;
+ }
+.folderLink .uploadIco:hover .folderLink .tooltip {
+     opacity: 1;
+     -webkit-transform: translateY(0px);
+     -moz-transform: translateY(0px);
+     -ms-transform: translateY(0px);
+     -o-transform: translateY(0px);
+     transform: translateY(0px);
+ }
+ /*Ends tooltip for Upload Icon user*/
+/* Ends My Group details page

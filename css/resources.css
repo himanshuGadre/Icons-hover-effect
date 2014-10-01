@@ -1,0 +1,3499 @@
+/*verified equipment section starts*/
+.chosen-container .chosen-results{
+    overflow: hidden;
+    max-height: 330px;
+}
+.equipmentCatgry a.sbSelector{
+    text-align: left;
+    margin: 0;
+}
+.equipmentCatgry li {
+    color: #124770;
+    text-align: left;
+    display: block;
+    margin-left: 0;
+}
+.equipmentCatgry li a,
+a.sbSelector{
+    font-family: 'open_sansregular', sans-serif;
+}
+.dataTableWrap{
+    padding: 82px 0 55px 0;
+}
+.equiContent .span8{
+    padding-bottom: 49px;
+}
+.equiContent h3,
+.equiContent h5,
+.equiContent p{
+    margin-bottom: 17px;
+}
+.programImpl{
+    margin-bottom: 35px;
+}
+.equiContent ul li{
+    margin-bottom: 3px;
+}
+.equiContent h5{
+    font:16px/18px open_sansbold, sans-serif;
+    display: block;
+}
+.pafTitle li{
+    position: relative;
+    margin-bottom: 8px;
+}
+.pdfTitle a:hover, .contact a:hover{
+    color: #7592b1;
+}
+.pdfTitle span{
+    display: block;
+    color: #19232d;
+}
+.divider{
+    background: url("../images/equicontent_divider.png") 660px  0 repeat-y;
+}
+.contact{
+    padding-left: 22px;
+    margin-bottom: 0;
+}
+.contact h5{
+    margin-bottom: 20px;
+    font: 16px/18px open_sansbold,sans-serif;
+    margin-top: 5px;
+}
+.contact span{
+    display: block;
+    color: #5f5b61;
+    margin-bottom: 8px;
+}
+.personName{
+    font: 14px/16px open_sansbold,sans-serif;
+    margin-bottom: 6px;
+}
+.contact a{
+    margin-bottom: 28px;
+    display: inline-block;
+    color: #19232d;
+}
+/*verified equipment section ends*/
+/*  Awards page starts*/
+.educator .btnsCenter{
+    margin-top: 30px;
+}
+.awards li{
+    margin-bottom: 8px;
+}
+.awards li a{
+    display: block;
+}
+.awards a span{
+    display: block;
+    font: 14px/18px open_sansregular,sans-serif;
+    color: #5f8aba;
+}
+.awards .btnsCenter{
+    margin-top: 15px;
+}
+.awards a span:first-child{
+    font-family: open_sansbold,sans-serif;
+}
+.awards .onlineCourse{
+    padding-top: 27px;
+    color: #abb3b8;
+}
+.awards .onlineCourse p {
+    color: #abb3b8;
+}
+.awards .onlineCourse span{
+    margin-bottom: 22px;
+    display: block;
+}
+
+.awards .onlineCourse div{
+    font: 14px/18px open_sansbold,sans-serif;
+}
+.awardText > p {
+    margin-bottom: 58px;
+}
+.meritAwards .heading a,
+.schoolFame .headingWhite a{
+    margin-top: 11px;
+}
+.awardInfo span{
+    margin-bottom: 22px;
+    display: block;
+}
+.schoolFame h6{
+    margin-bottom: 30px;
+}
+.inductees li{
+    float: left;
+    min-height: 33px;
+    min-width: 160px;
+    line-height: 16px;
+}
+#awardMerit h3,
+#awardHallOfFame h3,
+.rulesSection h3{
+    padding-top: 3px;
+}
+.awardees li a,
+.assoAwards li a {
+    font: 18px/20px titillium_webbold,sans-serif;
+}
+.awardees li span {
+    display: block;
+}
+.awardsSports li {
+    margin-top: 26px;
+}
+.awardsSports li:first-child {
+    margin-top: 0;
+}
+.awardsSports li a {
+    display: inline-block;
+    font-family: open_sansregular,sans-serif;
+}
+.awardsSports a span {
+    display: block;
+}
+.awardsSports a span:first-child {
+    font: 18px/20px titillium_webbold,sans-serif;
+    display: block;
+}
+.awardees li, .assoAwards li{
+    min-height: 74px;
+}
+.assoAwards li span {
+    display: block;
+}
+.citationIcon a {
+    display: block;
+}
+.citationIcon i {
+    display: block;
+    width: 140px;
+    height: 140px;
+    margin-bottom: 6px;
+    background: url('../images/citation_icons.png') 0 0 no-repeat;
+}
+.citationIcon .stateAssoc {
+    background-position: -3px -2px;
+}
+.citationIcon a:hover .stateAssoc {
+    background-position:  -147px -2px;
+}
+.citationIcon .athleticDir {
+    background-position:  -3px -146px;
+}
+.citationIcon a:hover .athleticDir {
+    background-position:  -147px -146px;
+}
+.citationIcon .coaches {
+    background-position:  -3px -290px;
+}
+.citationIcon a:hover .coaches {
+    background-position:  -147px -290px;
+}
+.citationIcon .officialIco {
+    background-position:  -3px -433px;
+}
+.citationIcon a:hover .officialIco {
+    background-position:  -147px -433px;
+}
+.citationIcon .speechIco {
+    background-position:  -3px -578px;
+}
+.citationIcon a:hover .speechIco {
+    background-position:  -147px -578px;
+}
+.citationIcon .musicDir {
+    background-position:  -3px -722px;
+}
+.citationIcon a:hover .musicDir {
+    background-position:  -147px -722px;
+}
+.citationIcon li span {
+    display: block;
+    text-align: center;
+    font: 14px/16px titillium_webbold,sans-serif;
+    color: #5f5b61;
+}
+.citationIcon a:hover span {
+    color: #abb3b8;
+}
+/*Awards section ends*/
+
+/* Start Hall of fame */
+.commeSpeech{
+    margin-bottom: 100px;
+}
+.resourcesLinks{
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "open_sansbold", sans serif, arial;
+}
+.resourcesLinks li{
+    margin-top: 10px;
+    line-height: 19px;
+}
+.resourcesLinks li:first-child{
+    margin-top: 0;
+}
+.resourcesLinks li a{
+    color: #244674;
+}
+.resourcesLinks li a:hover{
+    color: #386097;
+}
+.hallFameInductees{
+    text-align: center;
+}
+.fameinducteeWrap{
+    position: relative;
+}
+
+.inducteeFancyBox .fancybox-skin {
+    background:url("../images/lightBoxTransBg.png") 0 0 repeat;
+}
+.inducteeFancyBox .fancybox-close,
+.recoveryPass .fancybox-close,
+.sanctionWrap .fancybox-close {
+    background:url("../images/Nfhs_sprite.png") -55px -110px repeat;
+    top: 10px;
+    right: 10px;
+    width: 16px;
+}
+.inducteeFancyBox,
+.sanctionWrap{
+    width: 940px !important;
+    left: 0;
+}
+.fancybox-opened .fancybox-skin{
+    box-shadow: none;
+}
+
+.hallFameInductees h1{
+    color: #f3b01c;
+    font-size: 38px;
+    text-align: left;
+    line-height: 76px;
+    margin:0 0 28px 65px;
+    font-family:titillium_webbold,sans-serif;
+}
+.nhsIcon{
+    background: url("../images/Nfhs_sprite.png") -3px -198px no-repeat;
+    width: 74px;
+    height: 74px;
+    display: block;
+    float: left;
+    margin-right: 8px;
+}
+.fancybox-skin{
+    background: url("../images/blueTransphrent.png") 0 0 repeat;
+}
+.inducteesListing{
+    padding: 32px 30px 0 30px;
+    width:853px;
+    margin: 0 auto;
+}
+.sportsWinners {
+    background: #fff;
+}
+.inducteesListing ul{
+    margin-left: -60px;
+}
+.inducteesListing li{
+    float: left;
+    margin:0 0 15px 53px;
+    min-height: 293px;
+}
+.inducteesListing li .active{
+
+}
+.inducteesListing li img{
+    border: solid 3px #36414a;
+    display: block;
+}
+.inducteesListing li.firstInductee{
+    margin-left: 64px;
+}
+.inducteeInfo{
+    background: #abb3b8;
+    padding: 27px 15px;
+    margin: 25px 0 60px 0;
+}
+.flexslider .slides img {
+    max-width: 169px;
+    max-height: 207px;
+    cursor: pointer;
+}
+.spiritSportSlider .slides img {
+    max-width: 621px;
+    max-height: 380px;
+}
+.inducteeDataWrap{
+    padding: 42px 75px;
+    overflow: hidden;
+    width: 760px;
+    display: none;
+}
+.inducteeDataWrap .inducteePic{
+    position: relative;
+    float: left;
+    width: 216px;
+    margin-right: 35px;
+}
+.inducteeVideo{
+    margin-bottom: 20px;
+    position: relative;
+}
+.inducteeDataWrap .inducteePic img{
+    border: solid 3px #36414a;
+}
+.inducteeDataWrap .inducteeName{
+    background: #36414a;
+    color: #ffffff;
+    padding: 10px 15px;
+    display: block;
+    font-size: 16px;
+    line-height: 18px;
+    min-width: 130px;
+    position: absolute;
+    bottom:-10px;
+    right:34px;
+    text-align: center;
+    font-family: open_sansbold,sans-serif;
+}
+.inducteesListing li .inducteeName {
+    display: block;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    max-width: 175px;
+    margin-top: 9px;
+    color: #36414a;
+}
+
+/*hall of fame slider*/
+.slider {
+    width: 940px;
+    margin: 0 auto !important;
+    }
+#carousel {
+    width: 780px;
+    margin: 0 auto;
+}
+#carousel.flexslider,
+#slider.flexslider{
+    box-shadow: none;
+    border: none;
+    margin-bottom: 8px;
+}
+#carousel ul.slides > li {
+    margin-right: 0;
+}
+#slider.flexslider{
+    margin-bottom: 0;
+}
+#carousel .flex-viewport{
+    margin: 0 auto;
+    background: url("../images/inductYearBg.png") 0 0 repeat-x;
+}
+#carousel.flexslider .slides > li{
+    font-size: 30px;
+    color: #ffffff;
+    font-family: 'titillium_webbold', sans-serif;
+    line-height: 50px;
+    cursor: pointer;
+    width: 80px !important;
+    margin:0 25px !important;
+}
+#carousel.flexslider .flex-next,
+.flexslider .flex-next:hover {
+    opacity: 0.8;
+    right: -41px;
+    background: url("../images/Nfhs_sprite.png") -55px -59px no-repeat;
+    width: 30px;
+    height: 48px;
+    top: 25px;
+}
+#carousel.flexslider .flex-prev,
+.flexslider .flex-prev:hover {
+    opacity: 0.8;
+    left: -41px;
+    background: url("../images/Nfhs_sprite.png") -55px -2px no-repeat;
+    width: 30px;
+    height: 48px;
+    top: 25px;
+}
+.slides .flex-active-slide,
+.flexslider .slides > li:hover{
+    background: url("../images/yearSlectBg.png") center 0 no-repeat;
+    height: 70px;
+}
+#slider .slides .flex-active-slide{
+    background: none;
+}
+#slider .slides .flex-active-slide{
+    height: auto;
+}
+#slider:hover .flex-prev,
+#slider:hover .flex-next{
+    background: none;
+}
+.flex-direction-nav .flex-prev:hover,
+.flex-direction-nav .flex-next:hover,
+.flex-direction-nav a{
+    opacity: 0;
+    background: none;
+}
+/* End Hall of fame */
+/*Added To HST-Archieve*/
+.hstSlider {
+    position: relative;
+}
+.hstSlider .articleSlide {
+    width: 940px;
+    min-height: 260px;
+}
+.hstSlider .sportArticles li a img {
+    margin-bottom: 5px;
+}
+ul.headingNav {
+    list-style: none;
+}
+ul.headingNav li {
+    float: left;
+    margin-right: 20px;
+}
+ul.headingNav li:last-child {
+    margin-right: 0;
+}
+.hst_articles {
+    min-height: 360px;
+    margin-bottom: 39px;
+}
+.hst_articles a.redButton{
+    padding: 5px 0;
+    font-size: 14px;
+    line-height: 16px;
+    float: right;
+    border: solid 1px #eaaba8;
+    min-width: 82px;
+}
+.mainQuote {
+    font-family: open_sansregular;
+    color: #244674;
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+a.readMore {
+    background: #cb2c26;
+    padding: 5px 10px;
+    color: #fff;
+    font: 12px/18px open_sansregular,sans-serif;
+    border: 1px solid #eaaba8;
+}
+a.readMore:hover {
+    background: #cb544f;
+    color: #eee;
+}
+.hstArticlesDesc {
+    display: block;
+    line-height: 17px;
+    margin-bottom: 8px;
+}
+.eventTime {
+    font-family: open_sansbold;
+    color: #5f5b61;
+}
+.leftArrow,.rightArrow {
+    background: #586d83;
+    height: 100px;
+}
+.hstBtnSliderLeft,
+.hstBtnSliderRgt {
+    display: block;
+    width: 18px;
+    height: 30px;
+    position: absolute;
+    top: 40px;
+}
+.hstBtnSliderLeft {
+    background: url('../images/Nfhs_sprite.png') no-repeat;
+    background-position: -23px -158px;
+    left: 10px;
+    float: left;
+}
+.hstBtnSliderRgt {
+    background: url('../images/Nfhs_sprite.png') no-repeat;
+    background-position: -46px -158px;
+    right: 10px;
+    float: left;
+}
+.prevButton,
+.nextButton {
+    position: absolute;
+    top: 178px;
+    background: #586d83;
+    height: 104px;
+    cursor: pointer;
+}
+.prevButton {
+    width: 45px;
+    left: 0;
+}
+.nextButton {
+    right: 0;
+    width: 45px;
+}
+.prevButton .monthYrText {
+    left: 45px;
+    float: left;
+}
+.nextButton .monthYrText {
+    left: -30px;
+    float: right;
+}
+.monthYrText {
+    display: block;
+    width: 70px;
+    height: 35px;
+    position: relative;
+    top: 35px;
+    color: #fff;
+    font-family: 'titillium_webregular',sans-serif;
+    font-size: 14px;
+}
+/*Ended HST-Archieve's Code*/
+/*Start Search-Result Page code*/
+.searchedResults {
+    position: relative;
+}
+.searchMeanWrap {
+    padding: 93px 0 380px;
+}
+.resultDates {
+    font-size: 14px;
+    color: #5f5b61;
+    margin-bottom: 0;
+}
+.searchedResults .container {
+    position: relative;
+}
+.heading .searchHead {
+    margin-right: 15px;
+}
+.resultsCount {
+    color: #5f5b61;
+    font-family: "open_sansbold", sans-serif;
+    font-size: 14px;
+    margin-top: 7px;
+    min-width: 129px;
+}
+.heading a.advancedSearch {
+    font-family: open_sansbold;
+    font-size: 14px;
+    color: #244674;
+    text-decoration: none;
+}
+.resultsMean p {
+    font-family: 'titillium_webbold',sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.resultsList .searchResultSeven {
+    display: block;
+    margin-bottom: 11px;
+}
+
+.resultsList li {
+    display: block;
+    margin-bottom: 19px;
+    overflow: hidden;
+}
+.resultsList li a {
+    font-family: titillium_webbold;
+    font-size: 18px;
+    color: #244674;
+    float: left;
+    margin-right: 10px;
+    line-height: 20px;
+}
+.resultsList li a:hover,
+.heading a.advancedSearch:hover {
+    color: #7592b1;
+    text-decoration: none;
+}
+.resultDate {
+    font-family: open_sanssemibold;
+}
+.resultEventLink {
+    margin-bottom: 5px;
+}
+.resultNews {
+    font-family: open_sanssemibold_italic;
+    margin-right: 35px;
+    color: #5f5b61;
+}
+.resultDescription {
+    display: block;
+}
+.resultEventLink .archiveNews {
+    font-size: 14px;
+    color: #244674;
+    line-height: 16px;
+    margin-right: 10px;
+}
+.resultDescription p {
+    font-family: open_sansregular;
+}
+.advSearchWrap {
+    width: 550px;
+    float: right;
+    position: absolute;
+    right: 0;
+    top:34px;
+    background: #fff;
+}
+#advSearchForm {
+    padding: 15px 50px 30px;
+    border: 3px solid #abb3b8;
+    border-top: none;
+}
+.form-horizontal .searchLabels {
+    float: left;
+    width: 185px;
+    margin-right: 15px;
+    cursor: auto;
+    margin-bottom: 0;
+    text-align: left;
+}
+.searchGroup .selectList {
+    width: 200px;
+}
+.searchGroup {
+    margin-bottom: 0;
+}
+.searchLabel,
+.filterResult label {
+    font-size: 14px;
+    font-family: open_sansbold, sans-serif;
+    color: #5f5b61;
+    margin-bottom: 15px ;
+    cursor: auto;
+}
+.filterResult label{
+     margin-bottom:0;
+}
+.searchMainHeading {
+    border-bottom: none;
+    margin-bottom: 10px;
+}
+input.searchBoxes,
+select.searchBoxes {
+    border-radius: 0;
+}
+.advanSearchSelect {
+    float: left;
+}
+.filterResult .searchLabel {
+    font-size: 14px;
+    font-family: open_sansbold, sans-serif;
+    color: #5f5b61;
+    width: 100px;
+    float: left;
+    margin-right: 100px;
+}
+.filterResult{
+    margin-bottom: 10px;
+}
+.filterResult label {
+    margin-bottom: 0;
+}
+.selectForm {
+    margin-top: 15px;
+}
+.searchBtnWrap {
+    width: 202px;
+    margin: 30px auto 0;
+}
+.searchBtnWrap [type=submit] {
+    margin-right: 10px;
+}
+.form-horizontal .searchForm {
+    margin-bottom: 38px;
+}
+.searchBtn {
+    margin: 0 10px 0 0;
+}
+.pagingContainer {
+    margin-bottom: 51px;
+}
+.pagination ul.paginationList {
+    background: none;
+    box-shadow: none;
+    display: block;
+    margin: 0 auto;
+    width: 440px;
+}
+.pagination ul.paginationList > li {
+    margin-left: 9px;
+    float: left;
+    font-family: titillium_webregular;
+    font-size: 24px;
+    line-height: 17px;
+}
+.pagination ul.paginationList > li > span.prev {
+    background: url("../images/Nfhs_sprite.png") no-repeat;
+    background-position: -25px -59px;
+    border: none;
+    display: block;
+    height: 23px;
+}
+.pagination ul.paginationList > li > a.next {
+    background: url("../images/Nfhs_sprite.png") no-repeat;
+    background-position: -25px -90px;
+    border: none;
+    display: block;
+    height: 23px;
+}
+.pagination ul.paginationList > li > a.page-link,
+.pagination ul.paginationList > li > span.current,
+.pagination ul.paginationList > li > span.ellipse  {
+    border: none;
+    font-family: titillium_webregular;
+    font-size: 24px;
+    line-height: 17px;
+}
+.pagination ul.paginationList > li > span.current {
+    background: none;
+    font-family: titillium_webregular;
+    font-size: 24px;
+    line-height: 17px;
+    padding-bottom: 10px;
+}
+.pagination ul.paginationList > li > span.ellipse {
+    cursor: default;
+    padding: 0;
+}
+.pagination ul.paginationList > li.active {
+    border-bottom: 6px solid #cb2c26;
+}
+.searchDropDown {
+    margin-bottom: 30px;
+}
+.pagination ul.paginationList > li > a.page-link:hover {
+    font-family: titillium_webregular;
+    font-size: 24px;
+    line-height: 17px;
+    padding-bottom: 10px;
+    color: #999999;
+    background: none;
+}
+.equipmentCatgry .sbHolder  {
+    width: 220px ;
+    margin-left: 0;
+}
+.searchDropDown .sbHolder  {
+    width: 220px ;
+    margin-left: 0;
+}
+.equipmentCatgry .sbHolder .sbOptions {
+    width: 220px;
+}
+.searchDropDown .sbHolder .sbOptions {
+    width: 220px;
+}
+input.searchBoxes[type="search"] {
+    height: 25px;
+}
+.form-horizontal .searchGroup {
+    margin-bottom: 10px;
+}
+ul.resultsList li p {
+    word-spacing: -1px;
+}
+/*End Search-Res ult Page code*/
+/*Start HST-Monthly Magazine*/
+.magazineContent {
+    margin-bottom: 50px;
+}
+.monthMagazines .accoHeading{
+    font: 24px/26px titillium_webbold,sans-serif;
+    color: #cb2c26;
+    font-weight: normal;
+}
+.magazineContainer {
+    margin-bottom: 40px;
+    min-height: 362px;
+}
+.mlyMagazine {
+    background-color: #f3f3f3;
+    border: solid 1px #d1d3d5;
+    padding: 17px 15px;
+}
+.mlyMagazine h4 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'open_sansbold' , sans-serif;
+    font-size: 18px;
+    line-height: 18px;
+}
+.magazineCover {
+    margin-bottom: 20px;
+    display: block;
+    text-align: center;
+}
+.magCoverMusic {
+    margin-bottom: 15px;
+    display: block;
+    text-align: center;
+}
+.magazineCover img {
+    box-shadow: 3px 3px rgba(176,175,175,0.75);
+}
+a.webLink, a.magazineLink {
+    min-width: 90px;
+    padding: 8px 0;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.pdfMagazine li h4 {
+    font-family: 'open_sansbold' , sans-serif;
+    font-size: 18px;
+    line-height: 15px;
+    margin-right: 10px;
+    margin-bottom: 23px;
+}
+.yearPdfIssues li {
+    display: block;
+    margin-top: 18px;
+}
+.yearPdfIssues li:first-child{
+    margin-top: 0;
+}
+.pdfMagazine li .yearPdfIssues li h5 {
+    font-family: 'open_sansbold' , sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    color: #244674;
+    float: left;
+    margin-right: 10px;
+}
+a.heading {
+    border-bottom: 3px solid #cb2c26;
+    margin-bottom: 20px;
+    padding-bottom: 5px;
+    overflow: hidden;
+    display: block;
+}
+.heading .redArrow {
+    width: 20px;
+    height: 10px;
+    display: block;
+    margin: 8px 0 0;
+    background: url('../images/Nfhs_sprite.png') -68px -172px no-repeat;
+}
+.heading.active .redArrow {
+    width: 20px;
+    height: 10px;
+    display: block;
+    margin: 8px 0 0;
+    background: url('../images/Nfhs_sprite.png') -69px -158px no-repeat;
+}
+.monthlyView .mlyMagazine {
+    padding: 17px 15px 15px;
+}
+.monthlyView .webLink,
+.monthlyView .magazineLink {
+    padding: 6px 0;
+}
+.monthlyViewHeading {
+    margin-bottom: 27px;
+    display: block;
+}
+.monthlyView .magazineContent .heading {
+    margin-bottom: 26px;
+}
+.lastMagazineContent {
+    margin-bottom: 0;
+}
+
+/*End HST-Monthly Magazine*/
+/*Start Resources Publications*/
+.hstMagazineIssue {
+    background: url("../images/hst-magazineissueBackground.png") repeat;
+    padding: 0;
+    position: relative;
+}
+.latestMagazine {
+    background: url("../images/lastIssueBg.png") no-repeat;
+    position: absolute;
+    width: 280px;
+    height: 435px;
+    padding: 105px 0 0;
+}
+.latestMagHeading {
+    margin-bottom: 7px;
+}
+.latestMagazine .magazineLinks {
+    margin: 0 auto;
+    width: 185px;
+}
+.latestMagazine h4,
+.latestMagazine span {
+    font-family: 'open_sansbold',"sans serif";
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+.latestMagazine span {
+    display: block;
+}
+.latestMagazine h4:last-child {
+    font-family: 'open_sansregular',"sans serif";
+}
+
+.headingUnreg {
+    margin-bottom: 19px;
+}
+.headingUnreg h3 {
+    line-height: 31px;
+}
+.hstDescription .heading {
+    border-bottom: 3px solid #586d83;
+}
+.hstDescription .heading h3 {
+    color: #586d83;
+}
+.hstDescription .heading ul.headingNav {
+    display: block;
+    margin-top: 5px;
+}
+.hstDescription {
+    padding: 103px 0 166px;
+}
+.hstDescContent {
+    margin: 0;
+}
+.hstDescContent p {
+    font-family: 'open_sansregular',sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 30px;
+}
+a.subscribeBtn {
+    padding: 7px 25px 8px;
+}
+input.emailInput {
+    height: 25px;
+    margin-right: 13px;
+    border-radius: 0;
+    float: left;
+    padding: 4px 6px 4px 13px;
+    width: 250px;
+}
+.publications {
+    padding: 110px 0 105px;
+}
+.publicationsSection {
+    margin-bottom: 105px;
+}
+.publicLibryWrap {
+    margin-bottom: 44px;
+}
+.ruleBooksWrap {
+    margin-bottom: 0;
+}
+.buyBookSection .buybook {
+    padding: 26px 12px 15px;
+}
+.buyBookSection .buybook img {
+    margin: 0 auto 5px;
+}
+.bookDetails {
+    margin-bottom: 30px;
+}
+.bookDetails li a {
+    line-height: 20px;
+}
+.buyBookSection .buybook a.buyBookRedButton {
+    padding: 4px 0;
+}
+ul.freePublications li,
+ul.bookDetails li {
+    margin-bottom: 16px;
+}
+.buyBook {
+    background-color: #f3f3f3;
+    border: solid 1px #d1d3d5;
+    padding: 14px 12px;
+}
+.buyBook img {
+    display: block;
+    width: 173px;
+    margin: 0 auto 10px;
+    box-shadow: 3px 3px rgba(176,175,175,0.7);
+}
+.buyBookSection a.redButton {
+    padding: 8px 32px;
+}
+.publicLibryWrap a {
+    color: #244674;
+    font-family: 'open_sansregular',sans-serif;
+}
+.headinggray {
+    margin-bottom: 29px;
+}
+.headinggray h6 {
+    font-family: 'open_sansbold',sans-serif;
+    line-height: 20px;
+}
+ul.sportsRules li {
+    margin-bottom: 10px;
+}
+ul.sportsRules li a {
+    font-family: open_sansregular;
+    font-size: 14px;
+    text-decoration: none;
+}
+.sports {
+    margin-bottom: 10px;
+}
+.sports a.sportsTitle {
+    display: block;
+    margin-bottom: 13px;
+}
+ul.sportsList li {
+    margin-bottom: 10px;
+}
+.pubSubSection {
+    min-height: 700px;
+    margin-right: -12px;
+}
+.pubSubSection1 {
+    padding-left: 10px;
+    border-left: 1px solid #cb2c26;
+}
+.pubSubSection .headinggray {
+    margin-bottom: 27px;
+}
+a.sportsTitle i {
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    margin-right: 5px;
+    background: url('../images/Nfhs_sprite.png') -37px -28px no-repeat;
+}
+.sportsList .active i {
+    width: 15px;
+    height: 7px;
+    display: inline-block;
+    background: url('../images/Nfhs_sprite.png') -37px -21px no-repeat;
+}
+.sportsTitle {
+    margin-bottom: 10px;
+    display: block;
+}
+/*End Resources Publications-registered users*/
+/*Started Resources Publications-unregistered users*/
+.buyBook a.redButton {
+    font-family:'titillium_webregular',sans-serif;
+    font-size: 14px;
+    display: block;
+    margin: 0 auto;
+    width: 90px;
+    padding: 8px 0;
+}
+.freePublications {
+    margin-top: -2px;
+}
+.buyBook .bookTitle {
+    display: block;
+    margin:9px 0 23px;
+    color: #5f5b61;
+}
+.ruleBooksSection {
+    min-height: 315px;
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+.publicationsUnregSection,
+.publications {
+    padding: 101px 0 65px;
+}
+#bottom_fade {
+    width: 100%;
+    height: 318px;
+    z-index: 99;
+    position: relative;
+    top: -7px;
+    background: url("../images/pubFadeBg.png") repeat-x;
+}
+.artArchiveNav {
+    line-height: 19px;
+    display: block;
+}
+.unRegUser {
+    background:url("../images/pubFadeBg.png") repeat-x;
+}
+.pubSubSectionMin {
+    min-height: 310px;
+}
+.signUpBox {
+    background-color: #f3f3f3;
+    border: solid 1px #d1d3d5;
+    padding: 10px 38px;
+    position: relative;
+    top: -40px;
+}
+.nfhsSmallLogo {
+    float: left;
+    margin-right: 20px;
+    display: block;
+    width: 39px;
+}
+.signUpBox p {
+    float: left;
+    margin-right: 20px;
+    padding: 19px 0;
+    font-family: 'titillium_webbold';
+    font-size: 16px;
+}
+.joinToday {
+    margin: 10px 0;
+    padding: 7px 27px 8px;
+}
+.sportsTitle .blueArrow {
+    background-position: -34px -14px;
+    margin-left: 0;
+}
+/*End Resources Publications-unregistered users*/
+/*Code of Ethics Page*/
+.codeOfEthicsWrapper .codeOfEthics li p span {
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+}
+.codeOfEthicsWrapper .codeOfEthics{
+    margin-top: 18px;
+}
+.codeOfEthicsWrapper .codeOfEthics li {
+    margin-top: 18px;
+}
+.codeOfEthicsWrapper .codeOfEthics li:first-child {
+    margin-top: 0;
+}
+.codeOfEthicHeading {
+    margin-bottom: 18px;
+}
+.presentaionMatl ol li a {
+    line-height: 17px;
+    display: inline-block;
+}
+/*End code of ethics page*/
+/*Start of past conference and meetings*/
+.meetingSection {
+    margin-bottom: 84px;
+}
+.meetingSection1 {
+    margin-bottom: 50px;
+}
+/*End of past conference and meetings*/
+/*Start of NADCE Presentation Materials Page*/
+.joinToday {
+     margin: 10px 0;
+     padding: 7px 27px 8px;
+ }
+.sportsTitle .blueArrow {
+     background-position: -34px -14px;
+     margin-left: 0;
+ }
+ /*End Resources Publications-unregistered users*/
+ /*Start of past conference and meetings*/
+ .meetingSection {
+     margin-bottom: 84px;
+ }
+ .meetingSection1 {
+     margin-bottom: 40px;
+ }
+ /*End of past conference and meetings*/
+ /*Start of NADCE Presentation Materials Page*/
+ .presentationsWrapper .headSubtitle {
+    margin-bottom: 11px;
+}
+.presentationsWrapper h4 {
+    color: #cb2c26;
+    font: 18px/20px titillium_webbold,sans-serif;
+    margin-bottom: 14px;
+}
+.presentationsWrapper .browseByYr h4 {
+    margin-bottom: 10px;
+}
+
+.presentationContent:hover {
+    color: #7592b1;
+    text-decoration: none;
+}
+.presentationMatl ol {
+    list-style: decimal;
+    padding-left:20px;
+}
+.presentationMatl ol li {
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #244674;
+    margin-top: 13px;
+}
+.presentationMatl ol li:first-child {
+    margin-top: 0;
+}
+.presentationMatl ul li a {
+    display: block;
+    max-width: 450px;
+}
+
+.digiSearch input[type=submit].srchBtnIcon {
+    padding: 8px 45px 8px 25px;
+}
+.searchGroup input[type="search"]:focus,
+.subscribe input[type="text"]:focus,
+.digiSearch input[type="search"]:focus {
+    box-shadow: none;
+    border-color: #244674;
+}
+
+.materialYear > li > a:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+.searchTopicTitle input[type="text"]:focus,
+.searchTopicTitle input[type="password"]:focus {
+    border-color: #244674;
+    box-shadow: none;
+}
+/*End of NADCE Presentation Materials Page*/
+/*Start Forensic Educator*/
+.forEducatorPub {
+    background-color: #f3f3f3;
+    border: solid 1px #d1d3d5;
+    padding: 13px;
+}
+.forEducatorPub h3 {
+    text-align: center;
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 18px;
+    line-height: 20px;
+    color: #5f5b61;
+    margin-bottom: 22px;
+}
+.forEducatorPub h3 span {
+    display: block;
+}
+.forEducatorPub .redButton {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 7px 13px;
+    margin: 0 auto;
+}
+.artWrappSection1 {
+    margin-bottom: 105px;
+}
+.artWrappSection1 .heading {
+    overflow: visible;
+}
+.tableContent ul li {
+    margin-bottom: 12px;
+    font-size: 14px;
+    line-height: 24px;
+}
+.subSection h5 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #5f5b61;
+    font-family: 'open_sansbold', sans-serif;
+    margin-bottom: 10px;
+}
+.articleDes {
+    margin-bottom: 18px;
+}
+.selectWrapper {
+    background: none;
+    padding: 0;
+}
+.articleWrapper .forensicEducator{
+    margin-bottom: 22px;
+}
+.forensicEducator h3 {
+    line-height: 28px;
+    margin-top: 8px;
+}
+.forensicEducator {
+    padding-bottom: 3px;
+}
+.volumeSearch .sbOptions {
+    top: 30px;
+    position: absolute;
+}
+.forEducatorPubl h3 {
+    margin-bottom: 12px;
+}
+.forEducatorPubl .btnsCenter a.redButton {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 6px 9px;
+    margin: 0 auto;
+}
+.subSectionForEduc h5 {
+    margin-bottom: 7px;
+}
+.forEduHeading {
+    margin-bottom: 18px;
+}
+.magazineCoverFE {
+    margin-bottom: 19px;
+}
+.volumeSearch .chosen-container .chosen-drop .scrollBtn {
+    background: #ffffff url("../images/moreOptBg.jpg") center no-repeat;
+    cursor: pointer;
+    height: 23px;
+    border-radius: 0 0 5px 5px;
+}
+/*End of Forensic Educator*/
+/*Start of Forensic Quarterly*/
+ul.forQly li {
+    margin-right: 35px;
+}
+ul.forQly li a {
+    font-family: 'titillium_webbold',sans-serif;
+    text-decoration: none;
+    line-height: 19px;
+    display: block;
+    margin-top: 9px;
+}
+ul.forQly li:last-child {
+    margin-right: 4px;
+}
+ul.forQlyPub li {
+    background-color: #f3f3f3;
+    border: solid 1px #d1d3d5;
+    padding: 20px;
+    margin-bottom: 19px;
+    overflow: hidden;
+}
+.forQlyVol {
+    display: block;
+    float: left;
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 18px;
+    line-height:35px;
+    margin-right: 60px;
+}
+.forQly .externalLink {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url('../images/Nfhs_sprite.png') no-repeat -7px -128px;
+    margin: 0 0 0 10px;
+}
+.buyButtons {
+    float: left;
+}
+.buyButtons .redButton{
+    margin: 0 0 0 15px;
+}
+.buyButtons .redButton:first-child{
+    margin: 0 15px 0 0;
+}
+.forQlyPub .forQlyVol {
+    margin-right: 87px;
+}
+.forQlyPub .buyButtons .redButton2 {
+    margin-right: 0;
+    margin-left: 0;
+}
+.twoButtons .redButton2 {
+    margin-right: 0;
+}
+.forQlyPubDesc {
+    margin-bottom: 48px;
+}
+/*End of Forensic quarterly */
+/*Start of We are High School Blog*/
+.wrhsHeading h3{
+    font-size: 18px;
+    line-height: 16px;
+    color: #5f5b61;
+    margin-right: 10px;
+}
+ul.wrhsBlogs li {
+    border-bottom: 3px solid #ebebeb;
+    margin-bottom: 108px;
+    min-height: 537px;
+}
+ul.wrhsBlogs li:last-child {
+    margin-bottom: 0;
+}
+.playerDesc {
+    position: relative;
+    width: 460px;
+    padding: 14px 0 0;
+    border-top: 3px solid #cb2c26;
+    margin: 0 auto 3px;
+    top:-42px;
+    left: 0;
+    background: #fff;
+}
+.playerDesc .titleBlog {
+    text-align: center;
+    font-family: 'titillium_webbold';
+    font-size: 24px;
+    line-height: 29px;
+    color: #244674;
+    width: 370px;
+    margin: 0 auto 5px;
+    display: block;
+}
+.playerDesc .articleAuthor {
+    font-family: 'open_sansitalic',sans-serif;
+    font-size: 14px;
+    display: block;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.playerDesc p {
+    margin-bottom: 29px;
+    font-size: 14px;
+    line-height: 16px;
+}
+.commentWrapper {
+    padding: 8px 6px;
+}
+.blogTagText {
+    float: left;
+    width: 35px;
+    font-family: 'open_sansbold',sans-serif;
+    font-size: 14px;
+    color: #5f5b61;
+    margin-right: 10px;
+}
+.blogTags {
+    display: block;
+    float: left;
+    width: 450px;
+}
+.blogTags a {
+    width: 338px;
+    font-family: 'open_sansregular',sans-serif;
+    font-size: 14px;
+    color: #124770;
+}
+.blogTags a:hover {
+    opacity: 0.7;
+}
+.commentWrapper a.commentReply {
+    margin-top: 0;
+    line-height: 24px;
+}
+.tagDetails {
+    width: 100%;
+    position: relative;
+}
+.tagDetails .commentReply{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.greyHeading {
+    border-bottom: none;
+    margin-bottom: 5px;
+}
+ul.sportsList li {
+    margin-bottom: 9px;
+}
+.wrhsHeading {
+    margin-bottom: 7px;
+}
+ul.sportsList li a {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+#forensicEduLink {
+    margin-bottom: 3px;
+}
+.sportsListContainer {
+    margin-bottom: 50px;
+}
+.sportsRulesContainer .sportsRules li {
+    margin-bottom: 9px;
+}
+.advBanner {
+    display: block;
+    margin-bottom: 40px;
+}
+.blogPagingContainer {
+    margin-bottom: 60px;
+}
+a.wrhsBloggerImage {
+    display: block;
+}
+.blogHeading {
+    font: 16px/18px titillium_webbold,sans-serif;
+    color: #5f5b61;
+    margin-bottom: 35px;
+}
+/*End of we are high school blog*/
+
+/*Start of Music Association Journal*/
+.article {
+    margin-bottom: 18px;
+}
+.musicAssJourHeading {
+    margin-bottom: 17px;
+}
+/*End of Music Association Journal*/
+/*Start hst-archive*/
+.selectBoxWrapper .selectCategory .sbHolder {
+    margin-left: 0;
+}
+.filterSearchText {
+    display: block;
+    margin-bottom: 5px;
+    color: #999999;
+}
+.filterSearchBox {
+    margin-left: 100px;
+}
+.selectBoxWrapper .selectWrappers {
+    margin: 0 22px 35px 0;
+}
+.selectBoxWrapper .selectWrapper2 {
+    margin: 0 32px 35px 0;
+}
+.loader {
+    width: 46px;
+    height: 46px;
+    z-index: 9999;
+    background: url('../images/loaderImage.gif') center no-repeat;
+    margin: 0 auto;
+}
+ul.hstarchiveList li a {
+    display: block;
+    margin-bottom: 3px;
+}
+/*End hst archive*/
+/* Start coaches-article page*/
+.articlePagination{
+    margin: 15px 0 37px 100px;
+}
+.articlePagination li,
+.articlePagination li a{
+    color: #244674;
+    font-size: 12px;
+    line-height: 14px;
+    font-weight: normal;
+    font-family: 'open_sansregular', sans serif;
+}
+.articlePagination li{
+    float: left;
+    color: #5f5b61;
+}
+.articlePagination li a:hover{
+    color: #7592b1;
+}
+.articlePagination i {
+    background: url('../images/Nfhs_sprite.png') no-repeat -30px -129px;
+    width: 6px;
+    height: 10px;
+    display: inline-block;
+    margin: 0 5px;
+}
+.articleContent{
+    padding-right: 20px;
+}
+.articleHeadWrap{
+    border-bottom: solid 3px #cb2c26;
+    margin-bottom: 13px;
+    position: relative;
+}
+.articleContent p{
+    margin-bottom: 20px;
+    color: #5f5b61;
+    font-size: 14px;
+    line-height: 25px;
+}
+.articleHeadWrap h2{
+    font-size: 24px;
+    color: #cb2c26;
+    line-height: 26px;
+    font-family: 'titillium_webbold', sans serif;
+    font-weight: normal;
+}
+.articleHeadWrap .articleBy{
+    font-size: 12px;
+    color: #5f5b61;
+    font-family: 'open_sansregular', "sans serif";
+    display: block;
+    line-height: 14px;
+}
+.articleHeadWrap a {
+    font-size: 14px;
+    color: #244674;
+    font-family: 'open_sansbold_italic';
+    display: inline-block;
+    margin: 5px 0 10px 0;
+    min-width: 55px;
+}
+.articleHeadWrap a:hover{
+    color: #7592b1;
+}
+.articleHeadWrap .shareIcon > a{
+    margin-right:25px;
+}
+.shareIcon i{
+    background: url("../images/Nfhs_sprite.png") -34px 1px no-repeat;
+    width: 12px;
+    height: 16px;
+    float: right;
+}
+.articleHeadWrap .shareIcon > a:hover i{
+    background: url("../images/Nfhs_sprite.png") -34px 1px no-repeat;
+}
+.shareIcons{
+    background: url("../images/shareIconBg.png") 0 5px no-repeat;
+    height: 130px;
+    width: 60px;
+    padding-top: 10px;
+    position: absolute;
+    top: 69px;
+    right: 25px;
+}
+.shareIcons a i{
+    background: url("../images/Nfhs_sprite.png") 0 0 no-repeat;
+    width: 12px;
+    height: 18px;
+    display: block;
+    margin: 0 auto;
+}
+.shareIcons ul{
+    width: 25px;
+    margin: 5px auto;
+}
+.shareIcons li {
+    line-height: 16px;
+    text-align: center;
+}
+.shareIcons li a{
+    margin: 0 0 8px 0;
+    min-width: 0;
+}
+.shareIcons .facebook i{
+    background-position: 0 -313px;
+}
+.shareIcons .tweeter i{
+    background-position: -17px -313px;
+    width: 25px;
+}
+.shareIcons .linkdin i{
+    background-position: -47px -313px;
+    width: 20px;
+}
+.shareIcons .mail i{
+    background-position: -71px -313px;
+    width: 25px;
+}
+
+.loadMoreBtns{
+    margin: 55px 0 109px;
+}
+.playerDesc .loadMoreBtns{
+    margin: 30px 0 0;
+}
+p.articleQuote{
+    font-family: 'open_sanssemibold_italic', sans serif;
+    font-size: 14px;
+    line-height: 20px;
+    font-style: italic;
+    margin:0 0 15px 20px;
+}
+.articleQuote i{
+    background: url("../images/Nfhs_sprite.png") 0 -280px no-repeat;
+    width: 40px;
+    height: 30px;
+    display: block;
+    float: left;
+    margin-right: 10px;
+}
+.articleImg{
+    margin:10px 0 20px;
+}
+.articleImg img{
+    width: 100%;
+}
+.artcleImgInfo{
+    background: #36414a;
+    color: #ffffff;
+    display: block;
+    padding: 12px 0;
+    text-align: center;
+}
+.articleContent ol{
+    list-style:decimal outside;
+    margin-left: 20px;
+}
+.articleContent ol li{
+    margin-bottom: 35px;
+}
+.articleContent li h5{
+    font-weight: normal;
+    font-size: 14px;
+}
+p.articlebtmLines{
+    font-size: 12px;
+    font-style: italic;
+    line-height: normal;
+    margin-bottom: 0;
+}
+.relArticleWrap{
+    min-height: 275px;
+}
+.relArticleImg {
+    margin-bottom: 10px;
+}
+.relatedArticles{
+    margin:28px 0 73px 0;
+}
+.relatedArticles .relArtHead{
+    font-size: 12px;
+    font-family: 'open_sanssemibold_italic', sans-serif;
+    display: inline-block;
+}
+.relatedArticles a{
+    font-size: 14px;
+    float: left;
+}
+.articleAuthor {
+    margin-bottom: 72px;
+}
+.articleAuthor h5,.tableContent h5 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #5f5b61;
+    font-family: 'open_sansbold', sans-serif;
+    margin-bottom: 10px;
+}
+.articleAuthor a{
+    font-family: 'open_sansregular', sans-serif;
+}
+.popularArticles ol{
+    list-style: decimal outside;
+    margin-left: 20px;
+}
+.popularArticles ol li{
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+.popularArticles ol li, .popularArticles ol li a{
+    line-height: 18px;
+}
+.popularArticles ol li a {
+    display: block;
+}
+.popularArticles li a.articleLink{
+    font-size: 12px;
+    font-family: 'open_sanssemibold_italic', sans-serif;
+}
+.rightPanAdvts{
+    margin:15px 0 40px 0;
+
+}
+.commentAreaWrap{
+    margin-bottom: 45px;
+}
+.articleComments h4{
+    font-size: 24px;
+    color: #5f5b61;
+    font-family: 'titillium_webbold', sans-serif;
+    margin-bottom: 20px;
+}
+.commentIcon img{
+    padding-top: 5px;
+}
+.commentIcon{
+    background:#abb3b8;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    border: solid 2px #19232d;
+    float: left;
+    margin-right: 20px;
+}
+.commentBox textarea{
+    border:solid 2px #adadad;
+    border-radius: 0;
+    resize: none;
+    width: 535px;
+    height: 36px;
+    line-height: 36px;
+    font-family: 'titillium_webbold', sans-serif;
+    font-size: 18px;
+    padding-left: 15px;
+}
+.userComments li > .userComment{
+    float: left;
+    width: 80%;
+    margin-bottom: 25px;
+}
+.userComments li{
+    color: #5f5b61;
+    width: 80%;
+}
+.userComments li .userPic{
+    background: #000;
+    float: left;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    margin-right: 20px;
+    border: solid 2px #19232d;
+}
+.userComments li .userPic img{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+}
+.userComment .userName{
+    color: #5f5b61;
+    font-size: 14px;
+    font-family: 'titillium_webbold', sans-serif;
+}
+.userComment .commentTime{
+    color: #5f5b61;
+    font-size: 12px;
+    font-family: 'titillium_webregular', sans-serif;
+    font-style: italic;
+    margin-left: 40px;
+}
+.userComments li p{
+    font-size: 12px;
+}
+.userComments p{
+    margin-bottom: 8px;
+}
+.commentReply a{
+    margin-right: 60px;
+}
+.userComments li > ul{
+    float: left;
+    margin-left: 8px;
+}
+.userComments li > ul li{
+    margin:0 0 0 70px;
+}
+/* End coaches-article page*/
+/*Start conference-meetings page*/
+.confIcons i, .studentIcons i{
+    background: url("../images/conferences_icons1.png") 0 0 no-repeat;
+    width: 183px;
+    height: 186px;
+    display: block;
+    margin: 0 0 0 60px;
+}
+.studentIcons i {
+    background: url("../images/student_icons.png") 0 0 no-repeat;
+}
+.confIcons i.sumLegMeet{
+    margin: 0 0 0 67px;
+}
+.confIcons .nadConfExhbt{
+    background-position: 10px 10px;
+    height: 186px;
+}
+.confIcons .ncConference{
+    background-position: 10px -175px;
+    height: 186px;
+}
+.confIcons .commtMeetInd{
+    background-position: 10px -360px;
+    height: 186px;
+}
+.confIcons .winterMeet{
+    background-position: 10px -915px;
+    height: 186px;
+}
+
+/*.registerOnline{
+    margin-top: 45px;
+    width: 140px;
+}*/
+.confIcons .summerMeet{
+    background-position: 10px -729px;
+    height: 186px;
+    margin-left: 67px;
+}
+.confIcons .sumLegMeet{
+    background-position:10px -544px;
+}
+.conferencesIcons a{
+    display: inline-block;
+}
+.confIcons span, .studentIcons span{
+    color: #5f5b61;
+    font-size: 24px;
+    line-height: 26px;
+    font-family: 'titillium_webbold', sans-serif;
+    margin-top: 20px;
+    display:block;
+}
+.confIcons a:hover span, .studentIcons a:hover span{
+    color: #a1a8ad;
+}
+.hi-icon-wrap.confIcons, .hi-icon-wrap.studentIcons{
+    padding: 0;
+    margin: 3px 0 0 17px;
+}
+.conferenceMeetings .iconLink li{
+    margin-bottom: 65px;
+}
+.conferenceMeetings .iconLink2 li{
+    margin-bottom: 0;
+}
+.winterMeetingDetails {
+    margin-bottom: 62px;
+}
+.wintMeetResources{
+    margin-bottom: 95px;
+}
+.winterMeetingDetails .btnsCenter, .aboutNADConfWrap .btnsCenter {
+    margin-top: 41px;
+}
+.winterMeetingDetails p, .aboutNADConfWrap p {
+    line-height: 16px;
+}
+.hostConference .dateLocation li {
+    margin-bottom: 9px;
+}
+.conferenceResources h4 {
+    font-size: 18px;
+    font-family: 'titillium_webbold', sans-serif;
+    color: #cb2c26;
+    margin-bottom: 4px;
+}
+.conferenceResources li {
+    margin-bottom: 8px;
+    line-height: 16px;
+}
+.hostConference ul li {
+    margin-bottom: 4px;
+}
+.conferenceMeetings .iconLink li.ncConferenceIcon{
+    margin-left: 26px;
+    margin-top: 2px;
+}
+.conferenceResources li p {
+    line-height: 14px;
+}
+.dwnldPrint{
+    margin-top: 30px;
+}
+.dwnldPrint a{
+    font-family: 'open_sansbold', sans-serif;
+}
+/*End conference-meetings page*/
+/*start conference-history*/
+.commonTable{
+    margin-bottom: 0;
+}
+.vEqiupTable{
+    margin-bottom: 125px;
+}
+.commonTable tr th{
+    border: solid 1px #203348;
+}
+.commonTable tr td{
+    border: solid 1px #d9dbdc;
+    vertical-align: middle;
+}
+.commonTable tr td.currentMonth{
+    color: #244674;
+}
+.table-striped.commonTable tbody tr th,.scrollTable thead tr th{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'open_sansbold', sans-serif;
+    background-color: #586d83;
+    -webkit-box-shadow: 0 3px 1px rgba(173,173,173,.6);
+    -moz-box-shadow: 0 3px 1px rgba(173,173,173,.6);
+    box-shadow: 0 3px 1px rgba(173,173,173,.6);
+    border: solid 1px #33465c;
+}
+.commonTable tr th, .dataTable tr th{
+    padding: 12px 0;
+    text-align: center;
+}
+.recordBkResultTbl tr th{
+    padding: 18px 0;
+}
+.centerText, .recordBkResultTbl tr td.centerText{
+    text-align: center;
+}
+.commonTable tr td{
+    color: #898989;
+    font-size: 14px;
+}
+.table-striped.dataTable tbody tr th, .dataTable tbody tr td{
+    padding: 5px 10px 4px 30px;
+}
+.table-striped.diffDataTable tbody tr th, .table-striped.dataTable tbody tr th{
+    padding: 12px 0;
+    text-align: center;
+}
+
+.table-striped.futureNADCE tbody tr th {
+    padding: 11px 0;
+    text-align: center;
+}
+.table-striped.diffDataTable.participationsResult tbody tr th ,.scrollTable thead tr th{
+    padding: 19px 0;
+    text-align: center;
+}
+.table-striped.diffDataTable tbody tr td{
+    padding: 20px 11px 19px;
+}
+.equipmentTable{
+    margin-bottom: 125px;
+}
+.table-striped tbody > tr.even {
+    background-color: #f3f3f3;
+}
+.table-striped.tableCentered tbody tr th, .table-striped.tableCentered tbody tr td{
+    text-align: center;
+}
+/*end conference-history*/
+/* start Participation statics */
+.stateSearchList .chosen-single{
+    width: 113px !important;
+    height: 34px;
+}
+.stateSearchList .selectCategory .chosen-drop {
+    width: 124px;
+}
+section.participationData .headSubtitle{
+    margin-bottom: 37px;
+}
+section.participationDatas .headSubtitle{
+    margin-bottom: 37px;
+}
+.tabs li{
+    float: left;
+}
+ul.participationData li:first-child a{
+    border-left: solid 1px #d5d6d8;
+    border-bottom: none;
+}
+.tabs li:first-child a{
+    border-left: solid 1px #d5d6d8;
+}
+.tabs li a {
+    font-size: 18px;
+    color: #586d83;
+    padding:20px 48px;
+    border-top: solid 1px #d5d6d8;
+    display: block;
+    border-right: solid 1px #d5d6d8;
+    background: #edecec;
+}
+.participDataWrap .tabs li.active{
+    margin-top: -5px;
+}
+
+.tabs li.active {
+    border-top: solid 5px #cb2c26;
+    border-bottom: none;
+    margin-top: -5px;
+}
+.tabs li.active a {
+    background: #f6f6f6;
+    color: #cb2c26;
+    font-family: 'open_sansbold', sans-serif;
+    padding-bottom: 22px;
+}
+.particiDataWrap{
+    padding: 37px 20px 62px;
+    background: #f6f6f6;
+    border: solid 1px #d5d6d8;
+    margin-top: -2px;
+}
+.sportSearch .control-group:first-child{
+    margin-left: 0;
+}
+.sportSearch .control-group{
+    float: left;
+    margin-left: 15px;
+}
+.sportSearch .searchRcrdBook {
+   float: left;
+    margin-left: 19px;
+}
+.sportSearch .control-group label{
+    color: #898989;
+}
+.sportSearch .selectCategory a.sbSelector{
+    margin-top: 0;
+}
+.sportSearch .sbHolder, .searchRecord .sbHolder {
+    width: 240px;
+    height: 35px;
+    -webkit-box-shadow: 0 2px 1px rgba(173,173,173,.33);
+    -moz-box-shadow: 0 2px 1px rgba(173,173,173,.33);
+    box-shadow: 0 2px 1px rgba(173,173,173,.33);
+    margin-left: 0;
+}
+.volumeSearch .sbHolder {
+    width: 200px;
+    height: 35px;
+}
+.volumeSearch .chosen-container {
+    width: 184px !important;
+    height: 35px;
+}
+.volumeSearchMj .chosen-container {
+    width: 175px !important;
+    height: 35px;
+}
+.volumeSearchMj .chosen-container .chosen-single {
+    width: 164px !important;
+    height: 35px;
+}
+.digiArchSelect .chosen-container .chosen-single {
+    width: 184px !important;
+    height: 35px;
+} .volumeSearch .chosen-container .chosen-single {
+      width: 174px !important;
+      height: 35px;
+  }
+.volumeSearch .chosen-container .chosen-drop {
+    width: 184px !important;
+}
+.volumeSearch .sbOptions {
+    width: 200px;
+    margin-top: 0;
+}
+.volumeSearchMj .sbOptions {
+    width: 174px;
+    margin-top: 0;
+}
+.sportSearch .stateSearchList .sbHolder{
+    width: 125px;
+    height: 35px;
+}.sportSearch .sbToggle{
+     height: 35px;
+ }
+.sportSearch .sbSelector {
+    height: 35px;
+    line-height: 35px;
+}
+.sportSearch .sbOptions{
+    width: 240px;
+    margin-top: 0;
+}
+.stateSearchList .sbOptions {
+    width: 125px;
+    margin-top: 0;
+}
+.sportSearch input[type=submit].searchBtnIcon {
+    background: #cb2c26 url("../images/searchIcon.png") 85% 11px no-repeat;
+    padding-right: 40px;
+}
+.sportSearch input[type=submit].searchBtnIcon:hover {
+    background: #cb544f url("../images/searchIcon.png") 85% 11px no-repeat;
+}
+.participDataWrap{
+    margin-bottom: 55px;
+}
+.statDownload li{
+    margin-bottom: 13px;
+}
+/* end Participation statics */
+/*participations Result*/
+.commonTable tr td{
+    text-align: left;
+}
+.totalResult td {
+    font-family: 'open_sansbold', sans-serif;
+}
+.totalResult .resultTotal{
+    text-align: center;
+    color: #586d83;
+}
+.ascending, .descending{
+    background: url("../images/Nfhs_sprite.png") -3px -162px no-repeat;
+    width: 20px;
+    height: 10px;
+    display: inline-block;
+    margin-right: 5px;
+}
+.descending{
+    background: url("../images/Nfhs_sprite.png") -40px -130px no-repeat;
+}
+.participationsResult a{
+    color: #ffffff;
+}
+
+section.participationData {
+    padding: 104px 0 96px;
+}
+/*End participations Result*/
+/* start NAD Conference & exhibit show */
+.aboutNADConfWrap{
+    margin-bottom: 60px;
+}
+.aboutNADConf, .meetingText{
+    margin-bottom: 45px;
+    line-height: 16px;
+}
+.searchTopicTitle input[type=submit].searchBtnIcon {
+    background: #cb2c26 url("../images/searchIcon.png") 85% 11px no-repeat;
+    padding-right: 40px;
+}
+.searchTopicTitle .searchTxt{
+    height: 25px;
+    line-height: 30px;
+    border-radius: 0;
+    float: left;
+    margin:0 22px 0 0;
+}
+.headingWithsearch h3{
+    margin-top: 18px;
+}
+.presentMaterialWrap h4, .hostConference h4{
+    color: #cb2c26;
+    font: 18px/20px titillium_webbold,sans-serif;
+    margin-bottom: 10px;
+}
+.materialYear li{
+    display: block;
+    width: 100%;
+    margin-bottom: 18px;
+    overflow: hidden;
+}
+.materialYear li a {
+    margin-right: 20px;
+    display: block;
+    color: #244674;
+    font: 18px/20px titillium_webbold, sans-serif;
+    line-height: 24px;
+}
+.materialYear .year span {
+    display: block;
+}
+.materialYear li a .year {
+    margin-right: 70px;
+}
+.materialYear .nameOfMaterial:hover {
+    opacity: 0.7;
+    text-decoration: none;
+}
+.presMaterialDetails{
+    width: 270px;
+    line-height: 16px;
+}
+.presMaterialDetails span{
+    float: left;
+}
+.materialYear{
+    margin-bottom: 42px;
+}
+.featuredPresentations {
+    padding-left: 36px;
+}
+.featuredPresentations ol{
+    list-style-type: decimal;
+    color: #244674;
+    font: 18px/20px titillium_webbold,sans-serif;
+    margin-left: 25px;
+}
+.featuredPresentations li{
+    margin-top: 10px;
+}
+.featuredPresentations li:first-child {
+    margin-top: 10px;
+}
+.bigRedBtn .redButton{
+    padding: 8px 32px;
+}
+/* end NAD Conference & exhibit show */
+/*Record book*/
+.searchRecord{
+    background: #d1d3d5;
+    padding: 45px 0 50px;
+}
+.searchRcrdWrap{
+    width: 745px;
+    margin: 0 auto;
+}
+.searchRecord .selectCategory a.sbSelector{
+    margin-top: 0;
+}
+.selectCategory .sbSelector:hover,
+.heading a:hover{
+    color: #7592b1;
+}
+.chosen-container-single .chosen-single {
+    color: #898989;
+}
+.searchRecord .selectCategory{
+    float: left;
+    width: 244px;
+}
+
+section.searchRecordSection {
+    padding: 109px 0 90px;
+}
+
+.abtSearchRecordBook h4 {
+    font-family: 'open_sansbold', sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    color: #5f5b61;
+    margin-bottom: 10px;
+}
+.chosen-container .chosen-results li{
+    text-align: left;
+}
+.resultFilter .chosen-container,
+.resultFilter .chosen-container-single .chosen-single{
+    width: 210px !important;
+}
+.digiArchSelect .chosen-container.chosen-with-drop .chosen-drop{
+    width: 194px;
+}
+.chosen-with-drop .chosen-drop{
+    width: 235px;
+}
+.volumeSearchMj .chosen-container.chosen-with-drop .chosen-drop{
+    width: 174px;
+}
+.particiDataWrapper {
+    margin-bottom: 75px;
+}
+.chosen-container-single .chosen-single{
+    height: 33px;
+    line-height: 36px;
+    background: #ffffff;
+    border-radius: 0;
+    width: 235px;
+    text-align: left;
+}
+.sportSearch .chosen-container-single .chosen-single {
+    width: 226px;
+}
+
+.chosen-container .chosen-results{
+    font-size: 14px;
+    width: 244px;
+}
+.searchDropDown .chosen-container-single .chosen-drop{
+    font-size: 14px;
+    width: 220px;
+}
+.chosen-container .chosen-results li:hover{
+    color: #6c96b1;
+}
+.searchRecord .sbOptions{
+    margin-top: 0;
+}
+.searchRecord .sbSelector,
+.searchRecord .sbHolder,
+.searchRecord .sbToggle{
+    height: 35px;
+}
+.searchRecord .sbHolder{
+    width: 245px;
+}
+.orSearch{
+    margin:8px 34px;
+    float: left;
+    color: #19232d;
+    font-size: 24px;
+    font-family: 'titillium_webregular', sans-serif;
+}
+.searchRcrdBook input[type=text],
+.searchRcrdBook input[type=password]{
+    border: solid 1px #b4b6b8;
+    width: 220px;
+    font-family: 'open_sansregular', sans-serif;
+    padding: 4px 12px;
+    margin-right: 30px;
+}
+.sportSearch .searchRcrdBook input[type=text],
+.searchRcrdBook input[type=password]{
+    border: solid 1px #b4b6b8;
+    width: 220px;
+    font-family: 'open_sansregular', sans-serif;
+    padding: 4px 12px;
+    margin-right: 20px;
+}
+.searchRcrdWrap .sbToggle,
+.searchRcrdWrap .sbToggle:hover{
+    background-position: 12px 15px;
+}
+.abtRecordBook h4{
+    font-family: 'open_sansbold', sans-serif;
+    font-size: 14px;
+    color: #5f5b61;
+    margin-bottom: 15px;
+}
+.abtSearchRecordBook p{
+    margin-bottom: 18px;
+}
+.recordImg, .recordImg img{
+    border-radius: 50%;
+}
+
+.aboutRecordInfo {
+    padding-left: 25px;
+}
+.aboutRecordInfo h4{
+    color: #586d83;
+    font: 24px/26px titillium_webbold,sans-serif;
+    margin: 5px 0 20px 0;
+}
+.getCertificate{
+    margin-top: 53px;
+    margin-left: 35px;
+}
+
+section.trackFieldSection {
+    padding: 110px 0 87px;
+}
+.swimmingRolls li{
+    margin-bottom: 17px;
+}
+.swimmingRolls a{
+    color: #244674;
+    font: 18px/20px titillium_webbold,sans-serif;
+}
+.swimmingRolls a:hover {
+    color: #7592b1;
+}
+/*Start HST-archive page*/
+.digiArchive {
+    background: #d1d3d5;
+}
+.hstArchiveSection {
+    padding: 41px 0 66px;
+}
+h4.hstArchiveDesc {
+    text-align: center;
+    font-size: 24px;
+    line-height: 26px;
+    font-family: 'titillium_webregular',sans-serif;
+    color: #19232d;
+}
+.digiSearch .input-large {
+    margin: 0;
+    width: 234px;
+    margin-right: 20px;
+    height: 25px;
+}
+.archiveNews {
+    font-size: 14px;
+    color: #244674;
+    margin-right: 10px;
+}
+.archiveDate {
+    font-size: 12px;
+    font-family: 'open_sansregular',sans-serif;
+    line-height: 14px;
+}
+ul.hstarchiveList li {
+    margin-bottom: 35px;
+}
+
+ul.hstarchiveList {
+    margin-bottom: 64px;
+}
+/*End of HST-archive page*/
+/*Record Book search Result */
+.recordResult h3{
+    float: left;
+}
+.recordResult h5{
+    margin: 5px 15px 0;
+    float: left;
+    color: #a19fa2;
+    font-size: 14px;
+    font-family: 'open_sansregular',sans-serif;
+}
+.italic{
+    font-family: 'open_sansitalic', sans-serif;
+}
+.filterSearch {
+    border: solid 1px #d3d3d3;
+    background: #f6f6f6;
+    margin-bottom: 75px;
+}
+.filterSearch .mainFilter li.first{
+    float: left;
+    padding:10px 15px;
+    border-bottom: solid 1px #d3d3d3;
+    width: 97%;
+}
+.filterSearch .mainFilter li{
+    border-bottom: none;
+}
+.subFilter li:first-child{
+    border-left: none;
+}
+.mainFilter .subFilter li{
+    font-size: 12px;
+}
+.mainFilter  .filterType ul{
+    margin-top: 10px;
+}
+.mainFilter li a{
+    display: inline-block;
+}
+.subFilter li{
+    border-left: solid 1px #d3d3d3;
+    width: 120px;
+    float: left;
+    padding: 15px 15px 0px 15px;
+    min-height: 220px;
+}
+.subFilter .filterType{
+    font-family: 'titillium_webbold', sans-serif;
+    color: #244674;
+}
+.mainFilter{
+    font-family: 'open_sansregular',sans-serif;
+    font-size: 14px;
+}
+.subFilter li > ul li{
+    padding:0;
+    width: 100%;
+    border-left: none;
+    min-height: 0;
+    margin-bottom: 9px;
+}
+.subFilter li a{
+    font-family: 'titillium_webregular', sans-serif;
+    font-size:12px;
+    float: left;
+}
+.arrowRight{
+    background: url("../images/Nfhs_sprite.png") -40px -30px no-repeat;
+    height: 13px;
+    width: 10px;
+    display: inline-block;
+    margin-left: 5px;
+}
+.subFilter li.hundredYardGames{
+    width: 445px;
+}
+.subFilter li.hundredYardGames li:first-child{
+    margin-left: 0;
+}
+.subFilter li.hundredYardGames li{
+    width: 132px;
+    float: left;
+    margin-left: 6px;
+    padding: 0 0 0 10px;
+}
+.subFilter li.hundredYardGames li ul li{
+    margin-left: 0;
+}
+.hundredYardGames li{
+    width: 125px;
+    float: left;
+}
+.filterPagination{
+    background: #f6f6f6;
+    padding: 0 15px;
+    border: solid 1px #d9dbdc;
+}
+.filterPagination li{
+    float: left;
+    background: url("../images/pagiArrow.png") right 0 no-repeat;
+    padding:19px 0;
+}
+.filterPagination li.active{
+    background: none;
+}
+.filterPagination li a{
+    font-size: 18px;
+    color: #244674;
+    margin:0 25px 0 10px;
+    font-family: 'open_sansregular', sans-serif;
+}
+.recordBkResultTbl {
+    margin-bottom: 0;
+}
+.photoLink{
+    background: url("../images/Nfhs_sprite.png") -1px -342px no-repeat;
+    width: 36px;
+    height: 28px;
+    display: inline-block;
+    float: left;
+    margin-top: 5px;
+}
+.heading.recordResult{
+    margin-top: 3px;
+}
+.videoLink{
+    background: url("../images/Nfhs_sprite.png") -46px -341px no-repeat;
+    width: 30px;
+    height: 28px;
+    display: inline-block;
+    margin-top: 5px;
+    float: right;
+}
+.recordBkResultTbl .mediaPhotos{
+    width: 36px;
+    float: left;
+    margin:0 10px;
+}
+.recordBkResultTbl tr td, .searchResultWrap tr td{
+    text-align: left;
+    font-size: 12px;
+    height: 58px;
+    vertical-align: middle;
+    padding:0 20px;
+}
+.fancybox-skin{
+    /*padding: 5px !important;*/
+    border-radius: 0;
+    background: #ffffff;
+}
+.fancybox-outer .fancybox-prev{
+    background: url("../images/Nfhs_sprite.png") 0 -375px no-repeat;
+    width: 33px;
+    height: 48px;
+    left: -60px;
+    top: 46%;
+}
+.fancybox-outer .fancybox-next{
+    background: url("../images/Nfhs_sprite.png") -45px -375px no-repeat;
+    width: 33px;
+    height: 48px;
+    right: -60px;
+    top: 46%;
+}
+.fancybox-title-float-wrap{
+    right: 0;
+    bottom: -30px;
+    margin-bottom: 0;
+    text-align: left;
+    background: #ffffff;
+    width: 100% !important;
+}
+.fancybox-title-float-wrap .child{
+    margin-right: 0;
+    border-radius: 0;
+    padding: 10px 21px;
+    background: #ffffff;
+    text-shadow: none;
+    color: #5f5b61;
+    white-space: normal;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: 'open_sansregular', sans-serif;
+}
+.fancybox-close{
+    background: url("../images/Nfhs_sprite.png") -4px -438px no-repeat;
+    width: 25px;
+    height: 25px;
+    display: block;
+    top: -10px;
+}
+/*Record Book search Result */
+/*Record Book how to submit */
+.electronicApp{
+    background: #f6f6f6;
+    padding:20px 10px;
+    border: solid 1px #d1d3d5;
+}
+.electronicApp h3 {
+    font-size: 18px;
+    line-height: 20px;
+    color: #5f5b61;
+    font-family: 'titillium_webbold', sans-serif;
+    margin-bottom: 7px;
+}
+.electronicApp p{
+    font-size: 12px;
+    line-height: 16px;
+    color: #4d4e4e;
+    margin-bottom: 20px;
+}
+/*new code*/
+.honorRollFarms p.aboutRecordFarm{
+    color: #4d4e4e;
+    font-size: 14px;
+    line-height: 18px;
+    margin-bottom: 82px;
+}
+.recordFarmsHeading h3{
+    font-size: 18px;
+    line-height: 20px;
+    color: #5f5b61;
+    font-family: 'titillium_webbold', sans-serif;
+    margin-bottom: 17px;
+}
+section.howToSubmitSection {
+    padding: 105px 0 90px;
+}
+.recordFarms li{
+    margin-top: 18px;
+    line-height: 16px;
+}
+.recordFarms li:first-child{
+    margin-top: 0;
+}
+.electronicApp a.redButton {
+    padding: 7px 23px 7px;
+    display: inline-block;
+}
+/*new code end*/
+/*End Record Book how to submit */
+
+/* about record book */
+.aboutRecordBook p{
+    margin-bottom: 18px;
+    word-spacing: -1px;
+}
+.sportmanStatement {
+    margin-left: 29px;
+}
+.sportManStmnt {
+    word-spacing: -1px;
+}
+.conferenceNadceHistory {
+    padding: 104px 0 66px;
+}
+/*End about record book */
+/*Inductee by state */
+.inducteeMap{
+    margin:50px 0 112px 0;
+    text-align: center;
+}
+.inducteeCity{
+    font-size: 18px;
+    line-height: 22px;
+    color: #5f5b61;
+    font-family: 'titillium_webbold', sans-serif;
+    margin-bottom: 12px;
+}
+.inducteeAddress{
+    margin-bottom: 51px;
+}
+
+ul.address li {
+    font-size: 14px;
+    line-height: 17px;
+    word-spacing: -1px;
+}
+ .inducteeStates {
+     padding: 104px 0 111px;
+ }
+ /*End Inductee by state */
+ .searchTopicTitle input[type="submit"]:focus,input[type="submit"]:active {
+     box-shadow: none !important;
+     -webkit-background-origin: none !important;
+     -moz-background-origin: none !important;
+     border:none;
+ }
+ /*tooltip for Publications unregistered user*/
+ .ruleBooksSection .tooltip {
+     background: #707070;
+     color: #fff;
+     display: block;
+     position: absolute;
+     margin-bottom: 15px;
+     opacity: 0;
+     padding: 4px 8px;
+     pointer-events: none;
+     width: 150px;
+     font-family: 'open_sansregular',sans-serif;
+     font-size: 12px;
+     -webkit-transform: translateY(10px);
+     -moz-transform: translateY(10px);
+     -ms-transform: translateY(10px);
+     -o-transform: translateY(10px);
+     transform: translateY(10px);
+     -webkit-transition: all .25s ease-out;
+     -moz-transition: all .25s ease-out;
+     -ms-transition: all .25s ease-out;
+     -o-transition: all .25s ease-out;
+     transition: all .25s ease-out;
+ }
+ .ruleBooksSection .tooltip:before {
+     bottom: -20px;
+     content: " ";
+     display: block;
+     height: 20px;
+     left: 0;
+     position: absolute;
+     width: 100%;
+ }
+ .ruleBooksSection .tooltip:after {
+     border-left: solid transparent 10px;
+     border-right: solid transparent 10px;
+     border-top: solid #707070 16px;
+     bottom: -10px;
+     content: " ";
+     height: 0;
+     left: 50%;
+     margin-left: -13px;
+     position: absolute;
+     width: 0;
+ }
+ .ruleBooksSection:hover .tooltip {
+     opacity: 1;
+     -webkit-transform: translateY(0px);
+     -moz-transform: translateY(0px);
+     -ms-transform: translateY(0px);
+     -o-transform: translateY(0px);
+     transform: translateY(0px);
+ }
+/*new added from style css*/
+.divider{
+    background: url("../images/equicontent_divider.png") 660px  0 repeat-y;
+}
+.contact{
+    padding-left: 22px;
+    margin-bottom: 0;
+}
+.contact h5{
+    margin-bottom: 20px;
+    font: 16px/18px open_sansbold,sans-serif;
+    margin-top: 5px;
+}
+.contact span{
+    display: block;
+    color: #5f5b61;
+    margin-bottom: 8px;
+}
+.personName{
+    font: 14px/16px open_sansbold,sans-serif;
+    margin-bottom: 6px;
+}
+.contact a{
+    margin-bottom: 28px;
+    display: inline-block;
+    color: #19232d;
+}
+.searchTopicTitle input[type=submit].srchBtnIcon {
+    background: #cb2c26 url("../images/searchIcon.png") 80% 11px no-repeat;
+}
+.digiSearch input[type=submit].srchBtnIcon {
+    padding: 8px 45px 8px 25px;
+}
+.searchTopicTitle input[type=submit].searchBtnIcon:hover,
+.searchTopicTitle input[type=submit].srchBtnIcon:hover {
+    background: #cb544f url("../images/searchIcon.png") 85% 11px no-repeat;
+}
+.sanctionDataWrap {
+    margin-bottom: 20px;
+}
+
+.resultFilter .chosen-with-drop .chosen-drop{
+    width: 220px;
+}
+.sportSearch .chosen-with-drop .chosen-drop{
+    width: 235px;
+}
+.sportSearch .stateSearchList .chosen-drop{
+    width: 122px;
+}
+.inducteeDataWrap{
+    display: none;
+    position: absolute;
+    width: 940px;
+    padding:33px 0 0;
+}
+.inducteeVideo .playVideo{
+    background: url("../images/Nfhs_sprite.png") -5px -477px repeat;
+    width: 90px;
+    height: 90px;
+    display: block;
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+}
+
+.inducteeVideo{
+    position: relative;
+    width: 445px;
+    float: left;
+    text-align: center;
+    height: 250px;
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.inducteesListing li.active i{
+    background: url("../images/Nfhs_sprite.png") -40px -437px repeat;
+    width: 25px;
+    height: 20px;
+    display: block;
+    margin: 18px auto;
+}
+.gridClose{
+    float: right;
+    margin-top: 43px;
+    margin-right: 15px;
+    background: url("../images/Nfhs_sprite.png")-51px -112px repeat;
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+.inducteeName h3, .inducteeName h4{
+    font-size: 30px;
+    color: #36414a;
+    font-family:titillium_webbold,sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+.inducteeName h4{
+    font-size: 16px;
+    margin: 5px 0 25px 0;
+}
+.inducteeInfo img:after, .inducteeInfo img:before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.fameSectionWrap{
+    padding: 104px 0 35px;
+}
+
+
+/*start coach of the year search*/
+.topSearchWrap ul > li{
+    float: left;
+    margin-right: 15px;
+}
+.topSearchWrap ul > li li{
+    float: none;
+}
+
+/*end coach of the year search*/
+
+/*About Hall of Fame*/
+.aboutHall p {
+    margin-bottom: 20px;
+}
+.aboutHall span {
+    display: block;
+}
+/*Spirits of sport content*/
+.sportSpiritContent {
+    overflow: hidden;
+    margin-bottom: 70px;
+}
+.spiritSection .spiritOfSports h1 {
+    color: #cb2c26;
+    text-align: center;
+    margin:0 auto 30px;
+    line-height: 40px;
+    font-size: 38px;
+    font-family:titillium_webbold,sans-serif;
+}
+.debateSection .spiritOfSports h1,
+.coachYear .spiritOfSports h1 {
+    color: #cb2c26;
+    text-align: center;
+    margin:0 auto 30px;
+    width: 620px;
+    line-height: 40px;
+    font-size: 38px;
+    font-family:titillium_webbold,sans-serif;
+}
+.highSchoolContents h2{
+    color: #cb2c26;
+    text-align: left;
+    font-size: 26px;
+    font-family: 'titillium_webbold',sans-serif;
+    line-height: 30px;
+    margin-bottom: 16px;
+}
+.highSchoolContents p {
+    text-align: left;
+    margin-bottom: 9px;
+}
+.schoolsList {
+    overflow: hidden;
+}
+.schoolsList li {
+    min-height: 86px;
+    margin-bottom: 35px;
+}
+.schoolName {
+    margin-bottom: 5px;
+}
+.schoolName span,.schoolDetails span {
+    font-size: 14px;
+    line-height: 16px;
+    display: block;
+    text-align: left;
+}
+.schoolName span:first-child,.sectionWinner span:first-child {
+    font-family:'open_sansbold',sans-serif;
+}
+.schoolName span {
+    font-family: 'open_sansregular',sans-serif;
+}
+.sectionWinner a,.sectionWinner span {
+    display: block;
+    text-align: left;
+}
+.debateSection .schoolsList li {
+    margin-bottom: 40px;
+    min-height: 28px;
+}
+.spiritSection #carousel.flexslider,
+.debateSection #carousel.flexslider,
+.coachYear #carousel.flexslider {
+    box-shadow: none;
+    border: none;
+    margin-bottom: 40px;
+}
+.coachYear .highSchoolContents {
+    margin-bottom: 20px;
+}
+.coachYear .highSchoolContents span {
+    display: block;
+}
+
+/******* requirement_speech ***/
+.speechWrapper {
+    margin-bottom: 109px;
+}
+.requireGuide {
+    margin:0 0 176px 24px;
+  }
+.guideLineWrapper p{
+    font-family: "open_sansbold";
+}
+.requireGuide li {
+    font-size: 14px;
+    line-height: 18px;
+    color: #5f5b61;
+    margin-top: 12px;
+    list-style: disc;
+
+}
+.speechWrapper table tbody tr:nth-child(odd){
+    background: #f3f3f3;
+}
+/*** end of requirement sppech **/
+
+
+.topSearchWrap ul > li {
+    float: left;
+    margin-right: 10px;
+}
+.chosen-container .chosen-results li.active-result {
+    display: block;
+    cursor: pointer;
+    width: 100%;
+}
+.topSearchWrap ul{
+    margin-bottom: 35px;
+}
+.btnsCenter input[type=submit]{
+    float: none;
+}
+.resultPages{
+    margin-bottom: 8px;
+}
+.searchResultWrap .photoLink{
+    float: none;
+}
+.media{
+    text-align: center;
+}
+/* start awards template code */
+.awardsBtn .btnsCenter {
+    margin-top: 35px;
+}
+.awardeeName h2 {
+    margin-bottom: 0;
+}
+.awardeeName span {
+    text-align: left;
+}
+/* End awards template code */
+/*Start Minority Inclusion Program*/
+.minorityWrap ul{
+    margin-top: 20px;
+}
+.minorityWrap li:first-child{
+    border: none;
+    padding-top: 17px;
+
+}
+.minorityWrap li{
+    width: 100%;
+    border-top: solid 1px #d7d7d7;
+    padding-top: 25px;
+    margin-bottom: 15px;
+}
+.minorityWrap .minorityPrgm{
+    border-right: solid 1px #d7d7d7;
+    padding-right: 20px;
+    min-height: 130px;
+}
+.minorityWrap li h4{
+    font-family:'open_sansbold',sans-serif;
+    color: #364352;
+    margin-bottom: 12px;
+}
+.minorityWrap li p{
+    margin-bottom: 12px;
+    line-height: 20px;
+}
+.minorityWrap li a{
+    font-family:'open_sansbold',sans-serif;
+    font-size: 14px;
+}
+/*End Minority Inclusion Program*/
+/* starts Gender equity page */
+.gendrEqui p {
+    margin-bottom: 20px;
+}
+.gendrEqui h6 {
+    margin-bottom: 15px;
+}
+.gendrEqui a {
+    display: block;
+    margin-bottom: 15px;
+}
+.equiWrap ul li {
+    margin-top: 5px;
+}
+.equiWrap ul li:first-child {
+    margin-top: 0;
+}
+/*start Hazing*/
+.sportArticles li a img {
+    margin-bottom: 13px;
+}
+.sportArticles li span {
+    display: block;
+}
+.hazing{
+    position: relative;
+}
+.resourcesList{
+    margin-top: 55px;
+}
+.resourcesList h4{
+    font-family:'open_sansbold',sans-serif;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.resourcesList ul li{
+    margin-bottom: 5px;
+}
+.resourcesList ul li ul {
+    margin-left: 35px;
+}
+.resourcesList .subResources{
+    margin-bottom: 5px;
+}
+.resourcesList .subResources a{
+    display: block;
+    margin-bottom: 10px;
+}
+.resourcesList .subResources li{
+    margin-bottom: 0;
+}
+.resourcesList .subResources li a{
+    margin-bottom: 0;
+}
+.resourcesList .resources{
+    margin-bottom: 30px;
+}
+.hazing .articleWrap,
+.hazing .articleSlide,
+.sportArticleWrap .articleWrap,
+.sportArticleWrap .articleSlide{
+    width: 940px;
+}
+/*end Hazing*/
+
+/* Ends Gender equity page */
+/* Start Inclusion of Students with Disabilities*/
+.articleList li {
+    margin-top: 20px;
+}
+.articleList li:first-child {
+    margin-top: 0;
+}
+.articleList li a{
+    display: block;
+}
+.studentIcons .minorityIncl{
+    background-position: 5px 4px;
+    height: 186px;
+}
+.studentIcons .hazingIco{
+    background-position: 5px -174px;
+    height: 186px;
+}
+.studentIcons .disableIncl{
+    background-position: 5px -351px;
+    height: 186px;
+}
+.studentIcons .equityIco{
+    background-position: 5px -530px;
+    height: 186px;
+}
+/* End Inclusion of Students with Disabilities*/
+/*new added registration*/
+.registerWrap{
+    padding: 75px 0 110px;
+}
+.formWrap .password{
+    margin-bottom: 0;
+}
+.videoBoxWrap {
+    position: relative;
+    margin-bottom: 20px;
+    min-height: 210px;
+}
+.videoBox {
+    position: absolute;
+    top: 0;
+    width: 380px;
+}
+.videoList li {
+    margin-top: 25px;
+    line-height: 15px;
+}
+.videoList .active a,
+.videoList .active a:hover {
+    cursor: default;
+    color: #7592b1;
+}
+.videoList li:first-child {
+    margin-top: 0;
+}
+.inclResource h6 {
+    margin-bottom: 15px;
+}
+.inclResource li {
+    margin-top: 10px;
+}
+.inclResource li:first-child {
+    margin-top: 0;
+}
+.learnImage {
+    margin-bottom: 20px;
+}
+.courseWrap h6 {
+    margin-bottom: 10px;
+}
+.courseWrap p {
+    margin-bottom: 35px;
+}
+.personPic {
+    background: #36414a;
+    width: 98px;
+    height: 98px;
+    border-radius: 50%;
+    border: 4px solid #36414a;
+    overflow: hidden;
+    margin: 0 auto 5px;
+    position: relative;
+}
+.personPic img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 50%;
+}
+.storiesWrap li {
+    margin-top: 15px;
+}
+.storiesWrap li:first-child {
+    margin-top: 15px;
+}
+.storiesWrap span {
+    margin-top: 16px;
+    display: inline-block;
+}
+/* End Inclusion of Students with Disabilities*/
+/*start memberships*/
+.membershipsWrap{
+    background: url("../images/Light_Blue_BG.jpg") 0 0 repeat;
+}
+.membershipWrap .tabs li{
+    float: left;
+    border-top: solid 5px transparent;
+    background: none;
+}
+.membershipWrap .tabs li a{
+    background: none;
+}
+.membershipWrap .tabs li.active{
+    background: #fff;
+    border-top: solid 5px #cb2c26
+}
+.membershipWrap .tabs li a{
+    width: 188px;
+    height: 160px;
+    border: none;
+    padding: 0;
+    text-align: center;
+}
+.membershipSection .tabsDataWrap{
+    padding: 104px 0 93px;
+}
+.insurCoverage ul{
+    list-style:disc;
+    margin-left: 40px;
+}
+.membershipContent p{
+    margin-bottom: 30px;
+}
+.contentHead{
+    font-family:'open_sansbold',sans-serif;
+}
+h5.contentHead{
+    color: #244674;
+    margin-bottom: 20px;
+}
+.rightPanel h4{
+    color: #5f5b61;
+    font-size: 18px;
+    font-family:'open_sansbold',sans-serif;
+}
+
+/*end memberships*/
+/*** requirement official ***/
+.marginBottom44{
+    margin-bottom: 44px;
+}
+/** end of requirement official **/
+/*** insurance coaches ***/
+.speechWrapper table tr td ,
+.speechWrapper table tr th {
+    border: none;
+}
+td.paddingLeft25{
+    padding-left: 25px;
+}
+table.evenColor tbody tr:nth-child(odd){
+    background: #fff;
+}
+.evenColor tbody tr:nth-child(even){
+    background: #f3f3f3;
+}
+.coveredActivitiesRule{
+    margin-bottom: 106px;
+}
+.insuranceContactBox{
+    background: #f6f6f6;
+    border: 1px solid #d1d3d5;
+    padding: 26px 24px;
+    width:570px;
+}
+.insuranceContactBox h6 {
+    color:#5f5b61;
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "titillium_webbold";
+    margin-bottom: 14px;
+}
+.insuranceContactBox span {
+   line-height: 18px;
+    display: block;
+}
+.generalInsuAdd{
+    padding:35px 0 0 20px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.generalInsuAdd img {
+    margin-top: 60px;
+}
+.generalInsuAdd img:first-child {
+    margin-top:0 ;
+}
+/** end of insurance coaches **/
+/********* participation statistics result scroll bar ****/
+.table-striped.diffDataTable tbody tr td.oneColumn{
+    padding: 0;
+}
+
+.scrollContent table tbody.scrollContentBody tr td {
+    padding-left:0;
+    padding-right: 0;
+}
+.scrollContent table {
+    width: 100%;
+}
+td.scrollYear {
+    width: 110px;
+}
+td.scrollState{
+    width: 78px;
+}
+td.scrollSport{
+    width:95px;
+}
+td.scrollBoys{
+    width: 135px;
+}
+td.scrollGirl{
+    width: 143px;
+}
+.scrollContent  {
+    height: 250px;
+}
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar:hover,
+.mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar,
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+    background: #cb2c26 ;
+}
+/**** end of participation statistics result scroll bar  **/
+/*new addition*/
+.participationsResult{
+    margin-bottom: 40px;
+}
+.scrollTable{
+    margin-bottom: 0;
+}
+.scrollTable{
+    top: 0;
+    width: 940px;
+}
+.scrollTable a{
+    color: #ffffff;
+}
+/*Starts inclision video code*/
+.tabs2 {
+    display: none;
+}
+/*Ends inclision video code*/
