@@ -839,3 +839,17 @@
     padding: 2em 0 1.2em;
 }
 /*Ends State Association page*/
+
+.citationIcon.hi-icon-effect-9a .hi-icon:hover {
+    box-shadow: 0 0 0 10px #cb2c26;
+    color: #fff;
+    height: 186px;
+    width: 186px;
+}
+
+.citationIcon.hi-icon-effect-9 .hi-icon:after {
+    box-shadow: 0 0 0 3px #cb2c26;
+    -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+    -moz-transition: -moz-transform 0.2s, opacity 0.2s;
+    transition: transform 0.2s, opacity 0.2s;
+}

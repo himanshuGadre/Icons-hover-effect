@@ -173,12 +173,13 @@ a.sbSelector{
 }
 .citationIcon i {
     display: block;
-    width: 140px;
-    height: 140px;
-    margin-bottom: 6px;
-    background: blue;
-    text-align: center;
-    margin-top: 20px;
+    width: 123px;
+    height: 123px;
+    /*margin-bottom: 6px;*/
+    margin: 0 auto 6px;
+    /*background: blue;*/
+    /*text-align: center;*/
+    /*margin-top: 20px;*/
     /*background: url('../images/citation_icons.png') 0 0 no-repeat;*/
 }
 .citationIcon .stateAssoc {
